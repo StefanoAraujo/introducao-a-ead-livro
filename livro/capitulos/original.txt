@@ -1,0 +1,2963 @@
+﻿Ministério da Educação – MEC
+Coordenação de Aperfeiçoamento de Pessoal de Nível Superior – CAPES
+Diretoria de Educação a Distância – DED
+Universidade Aberta do Brasil – UAB
+Programa Nacional de Formação em Administração Pública – PNAP
+Especialização em Gestão Pública Municipal
+
+
+
+
+
+
+
+
+INTRODUÇÃO À EDUCAÇÃO A DISTÂNCIA
+2010
+
+
+
+
+
+Marta Maria Gomes Van der Linden
+
+
+
+
+
+
+Editora da UFPB
+João Pessoa – PB
+2010
+
+
+2010
+
+
+© 2010. Universidade Federal da Paraíba – UFPB VIRTUAL. Todos os direitos 
+reservados.
+A responsabilidade pelo conteúdo e imagens desta obra é do(s) respectivo(s) 
+autor(es). O conteúdo desta obra foi licenciado temporária e gratuitamente 
+para utilização no âmbito do Sistema Universidade Aberta do Brasil, através 
+da UFPB. O leitor se compromete a utilizar o conteúdo desta obra para 
+aprendizado pessoal, sendo que a reprodução e distribuição ficarão 
+limitadas ao âmbito interno dos cursos. A citação desta obra em trabalhos 
+acadêmicos e/ou profissionais poderá ser feita com indicação da fonte. A 
+cópia desta obra sem autorização expressa ou com intuito de lucro constitui 
+crime contra a propriedade intelectual, com sanções previstas no Código 
+Penal, artigo 184, Parágrafos
+1º ao 3º, sem prejuízo das sanções cíveis cabíveis à espécie.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Responsável pela catalogação: Maria de Fátima dos Santos Alves-CRB -15/149
+Diagramação: Nilcéa Maria de Lima
+
+
+
+
+
+
+
+
+
+Introdução à Educação a Distância
+
+
+Profa. Dra. Marta Maria Gomes Van der Linden
+
+
+Descrição do Curso
+Este curso tem por objetivo apoiar os estudantes de cursos virtuais na teoria e 
+prática do ensino e aprendizagem on-line. Terá como foco os fundamentos 
+teóricos e metodológicos que orientam a educação virtual. Será utilizado 
+um ambiente virtual de aprendizagem (Moodle), ao mesmo tempo em que os 
+participantes serão levados a refletir sobre as possibilidades e limites 
+oferecidos pelas tecnologias aplicadas à educação. Os participantes terão 
+oportunidade de vivenciar um modelo de comunidade virtual orientada para a 
+aprendizagem colaborativa e refletir sobre experiências internacionais e 
+nacionais de Educação a Distância (EAD). No decorrer do curso, vivenciarão 
+algumas práticas de avaliação formativa em educação on-line e 
+participarão de atividades colaborativas de estudos e pesquisas voltadas para 
+educação à distância. 
+Objetivos
+Ao final do curso cada participante deverá estar habilitado para:
+* Compreender o conceito de EAD como modalidade de ensino, suas 
+especificidades, definições e evolução ao longo do tempo;
+* Participar de uma comunidade virtual de aprendizagem;
+* Conhecer as regras de convivência para participação em comunidades 
+virtuais e as ferramentas de comunicação: emoticons, netiqueta, clareza, 
+citações e diretrizes de feedback;
+* Utilizar as ferramentas de comunicação síncronas e assíncronas no 
+Ambiente Virtual Moodle;
+* Participar de atividades de ambientação no Moodle e experimentar seus 
+recursos e ferramentas como forma de viabilizar sua participação como aluno 
+virtual em disciplinas posteriores do seu Curso Virtual.
+
+Metodologia
+O curso deverá desenvolver-se numa perspectiva metodológica centrada no 
+aluno. A sua interação com os demais alunos e com os tutores e docentes se 
+dará através de uma comunidade de aprendizagem em rede apoiada na Internet. 
+Também através da Internet os alunos poderão acessar o conteúdo da 
+disciplina e realizar as atividades acadêmicas.
+A disciplina focará especialmente o desenvolvimento de habilidades e 
+competências para a aprendizagem colaborativa e o exercício da autonomia.
+Será adotada a abordagem construtivista, buscando resgatar os conhecimentos 
+prévios dos alunos e o trabalho com temas que façam parte da realidade dos 
+mesmos e que sejam significativos do ponto de vista de seus interesses de 
+aprendizagem. 
+Projeto da Disciplina
+A disciplina está estruturada em seis Unidades Temáticas Integradas. Cada uma 
+contém itens e subitens que remetem às outras unidades. Os temas abordados 
+podem ser acompanhados de apresentações expositivas, animações, mapas 
+conceituais, vídeos ou ilustrações, indicações de textos de apoio e 
+problematizações de questões do texto. Para cada unidade pode ser aberta uma 
+discussão no fórum e proposta uma atividade de avaliação.
+Critérios de Avaliação
+Esta disciplina é composta de seis unidades temáticas. Os conteúdos dessas 
+unidades serão apresentados no Moodle ao longo do semestre letivo.
+
+A cada semana novos materiais e atividades serão disponibilizados na nossa 
+sala de aula virtual. Os participantes devem acompanhar cada semana, estudando 
+os materiais e executando as atividades propostas. Além disso, procurem 
+acompanhar e participar das discussões nos Fóruns.
+
+Neste fascículo, serão apresentados do material para estudo, com o conteúdo 
+das Unidades e referências bibliográficas para complementar seus estudos em 
+EAD. O fascículo não esgota os conteúdos a serem estudados, apenas os 
+apresenta para discussão. Portanto, a avaliação dos temas não se resume ao 
+exposto neste fascículo.
+
+O sistema de avaliação da disciplina Introdução à Educação a Distância 
+seguirá os critérios abaixo relacionados:
+
+1. A avaliação totaliza 300 pontos, sendo 200 pontos pela participação nas 
+diversas atividades do Moodle e 100 pontos pela prova presencial no Pólo.
+2. A parte da avaliação relativa à participação no Moodle (200 pontos) 
+será referente não apenas à quantidade, mas especialmente à qualidade dessa 
+participação nos diversos fóruns da disciplina, e na realização das 
+atividades propostas no ambiente: lição, wikis, fóruns, glossários, 
+questionários, tarefas on line e off line, chat. etc) 
+
+Será atribuída uma pontuação a cada atividade proposta no ambiente, de 
+acordo com a dificuldade da atividade. A pontuação de cada uma deverá ser 
+informada previamente ao aluno, através do Moodle.
+
+Você terá uma aula presencial para conhecer as ferramentas do Moodle e se 
+familiarizar com o ambiente virtual de aprendizagem ( Moodle). As Atividades 
+relativas a esta fase de ambientação valem 10 pontos.
+
+O conteúdo e o horário de realização da prova presencial serão previamente 
+divulgados pela coordenação do curso e deverão ser anunciados no Moodle e no 
+mural de seu Pólo. O aluno que não comparecer a prova presencial semestral 
+terá direito a uma prova de reposição com o mesmo conteúdo e horário 
+previamente determinado pela coordenação do curso.
+
+3. Haverá um exame final presencial para o aluno que não atingir a média de 
+70 pontos no semestre. Para participar do exame final o aluno deverá ter 
+atingido pelo menos a média de 40 pontos nas avaliações parciais.
+Requisitos mínimos de participação
+Observe os seguintes requisitos que são exigidos no decorrer da disciplina:
+* Verifique seu e-mail diariamente;
+* Visite a sala de aula virtual pelo menos três vezes por semana no endereço 
+www.ead.ufpb.br (tenha sempre em mente seu login e senha para acessá-lo.);
+* Participe das discussões e das atividades colaborativas síncronas e 
+assíncronas;
+* Verifique semanalmente o material de estudo indicado no Moodle. Faça 
+download do material e leia os textos indicados. Se tiver dificuldade de ler na 
+tela, imprima o material de estudo;
+* Visite a biblioteca de seu Pólo para consultar a bibliografia básica do 
+curso;
+* Faça as atividades indicadas a cada semana e envie através do Moodle para 
+serem avaliadas.
+Bibliografia Comentada
+
+
+PALLOFF, Rena M. e PRATT, Keith. O aluno virtual: um guia para trabalhar com 
+estudantes on-line. Tradução: Vinícius Figueira. Porto Alegre: Artmed, 2004. 
+
+ “A cada minuto, no mundo, caem novas barreiras de tempo e espaço, vencidas 
+pela profusão de tecnologias e pelo incessante e veloz aperfeiçoamento das 
+mídias já utilizadas. Nesse contexto, a Educação a Distância, mais 
+correntemente conhecida como EAD, evolui com a mesma intensidade e velocidade. 
+Mas cabe a pergunta: e o aluno? Ou seja, como o novo aluno, o aluno virtual, se 
+comporta ante esse universo, e o que os agentes envolvidos no processo 
+educacional podem fazer para facilitar-lhe o aprendizado. Esse é o tema do 
+livro. Divide-se basicamente a obra em duas partes. Na primeira, traça-se um 
+perfil do estudante virtual, indispensável ao êxito de qualquer experiência 
+educacional do gênero. Na segunda parte, os autores apresentam um guia para se 
+trabalhar com alunos a distância, notadamente por meio do computador. Leitura 
+interessante para os que se interessam pelo assunto ou que atuam nessa 
+modalidade de educação”. Esta resenha foi transcrita integralmente do 
+Instituto Legislativo Brasileiro e está disponível no site do Senado Federal  
+http://www.senado.gov.br
+
+
+
+
+
+PALLOFF, R & PRATT, K. Construindo Comunidades de Aprendizagem no Ciberespaço: 
+estratégias eficientes para a sala de aula on-line. Tradução: Vinícius 
+Figueira. Porto Alegre: Artmed, 2002, 247 p.
+
+“Este guia prático contém estudos de caso e exemplos retirados de uma ampla 
+variedade de cursos on-line bem-sucedidos. Os autores apresentam estratégias 
+para lidar com os seguintes desafios: envolvimento do aluno com o assunto 
+estudado; registro da presença e da participação; trabalho com alunos que 
+não participam da aula; compreensão dos sinais que indicam que o aluno passa 
+por um problema e construção de comunidades on-line que incluam a interação 
+pessoal”. Resenha transcrita integralmente do editor. Disponível em  
+www.submarino.com.br
+
+
+
+LITWIN, Edith.(org.) Educação a Distância: temas para o debate de uma nova 
+agenda educativa. Porto Alegre: Artmed. 2001.110 p.
+
+A educação a distância aparece no novo século como modalidade que revisa 
+seus princípios fundamentais e reconstrói seu sentido e abrangência para o 
+ensino e a aprendizagem. A argentina Edith Litwin, professora da Universidade 
+de Buenos Aires, compila nessa obra artigos de interesse para quem busca 
+conhecer mais e melhor os diversos elementos que envolvem a educação a 
+distância (EAD). Didaticamente, um grupo de importantes autores reunidos por 
+Litwin examina aspectos centrais da educação a distância. Trata dos 
+seguintes temas que representam os maiores desafios dessa modalidade 
+educacional: a qualidade do ensino; a colaboração interinstitucional; a 
+produção de materiais específicos para EAD; e por último, mas talvez o mais 
+importante, o papel do tutor. Quanto a esse último tema, vale ressaltar que o 
+tutor, no campo da educação a distância, necessita atuar como coringa, 
+exercendo as funções de mestre, incentivador, revisor e administrador, dentre 
+outras, requeridas por uma modalidade de ensino em que, na outra ponta, 
+encontra-se um aluno freqüentemente solitário no ambicioso processo de 
+conhecer.  Uma resenha do livro está disponível em 
+http://www.revistaconecta.com/dicas/reais.htm
+
+
+PRETI, Oreste (Org.) Educação a Distância: construindo significados. 
+Brasília: Ed.Plano. 2000. 268 p.
+                         
+
+Oreste Preti é professor do Núcleo de Educação a Distância da Universidade 
+Federal do Mato Grosso - NEAD.  Participou da primeira experiência de um curso 
+de graduação oferecido por uma universidade brasileira na modalidade EAD em 
+1995. A obra Educação a Distância: construindo significados (2000) é fruto 
+dessa experiência e busca fazer um  contraponto crítico das tendências 
+dominantes, agregando uma coletânea de trabalhos selecionados pelo autor. É 
+composta por 12 artigos que trazem ao debate temas relacionados a educação a 
+distância num mundo globalizado, particularizando as questões inerentes ao 
+cenário do terceiro mundo. Põe ênfase no papel da EAD nos países em 
+desenvolvimento, no sentido de enfrentar os desafios político-social, 
+econômico, pedagógico e tecnológico que a sociedade, especialmente nos 
+países do terceiro mundo. São abordados ainda, a questão da regulamentação 
+da modalidade, o uso das tecnologias, os problemas relacionados a orientação 
+acadêmica entre outros.
+
+
+PETERS, Otto. Didática do Ensino a Distância: experiência e estágio da 
+discussão numa visão internacional. Tradução: Ilson Kayser. S.Leopoldo: 
+Editora UNISINOS. 2001. 401 p.
+
+Este livro é indispensável para aqueles que atuam ou pretendem atuar no campo 
+da Educação a Distância. Nos primeiros capítulos o autor esboça uma teoria 
+da Educação a Distância, fortemente apoiada nas contribuições do 
+especialista norte-americano Michael G. Moore e sua "Teoria da Distância 
+Transacional". Faz um levantamento de dados e a partir da caracterização da 
+relação dinâmica entre Diálogo, Estrutura e Autonomia que define o grau de 
+distância ou proximidade transacional no processo de ensino-aprendizagem em 
+geral, presencial ou à distância. No quarto capítulo, o autor se propõe a 
+tratar da aplicação da teoria da distância transacional na prática. Discute 
+a aprendizagem dialógica, a aprendizagem estruturada e o estudo autônomo. No 
+quinto capítulo, aborda as concepções modificadoras. Trata do ensino aberto, 
+da educação permanente, do ensino industrializado e da educação na pós 
+modernidade. No capítulo seis, denominado Informação e Comunicação 
+Digital,  explora o ensino na Universidade Virtual. Apresenta concepções 
+otimistas, realistas e análises didáticas e traz ao debate as contribuições 
+da Fernuniversitat. Os modelos de ensino e aprendizagem a distância são 
+apresentados no capítulo sete. O livro finaliza com o oitavo capítulo em que 
+o autor apresenta Análises e Perspectivas da Educação a Distância. Uma 
+resenha sobre o livro produzida por Wilson Azevedo está disponível do site da 
+ABED.  http://www.abed.org.br
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unidades Temáticas Integradas
+O conteúdo da disciplina está estruturado em seis unidades temáticas 
+integradas: 
+Unidade 1	Uma Introdução aos Fundamentos Teóricos e Metodológicos da 
+Educação a Distância
+1. Da Educação a Distância à Educação Virtual;
+2. A Sala de Aula Virtual Moodle;
+3. UFPBVIRTUAL no contexto da Universidade Aberta do Brasil – UAB;
+4. O Professor, o Aluno e a Comunidade Virtual de Aprendizagem.
+
+Unidade 2	Apresentação e Ambientação da Sala Aula Virtual Moodle 
+1. O Ambiente Virtual de Aprendizagem Moodle;
+2. Filosofia do Moodle;
+3. Ferramentas do Moodle: 
+Materais de Estudo ou Recursos: Texto Simples; Link a um Arquivo ou Site; Livro.
+Atividades: Chat; Fórum; Tarefa; Pesquisa de Avaliação; Questionário; 
+Diário; Glossário; Wiki; Lição; Base de Dados.
+
+Unidade 3	 O Aluno Virtual
+1. Quem é o Aluno Virtual?
+2. Comportamento Autônomo;
+3. Regras de convivência e Ferramentas de comunicação para participação em 
+comunidades de aprendizagem: ética; netiqueta; emoticons; clareza; citações; 
+diretrizes para feedback.
+
+Unidade 4	Comunidades Virtuais de Aprendizagem
+1. Ambientes Virtuais de Aprendizagem - AVA;
+2. Comunidades Virtuais de Aprendizagem;
+3. O Papel do Aluno na Comunidade Virtual;
+4. Interação e Interatividade;
+5. O Silêncio Virtual.
+
+Unidade 5	 Avaliação em Ambientes Virtuais de Aprendizagem apoiados 
+pela Internet
+         1. As Dimensões da Avaliação;
+        2. Fundamentos da Avaliação Educacional;
+         3. Avaliação em Ambientes Virtuais Interativos:
+         4. Objetos de Avaliação na Educação On-line
+         5. Recursos e Ferramentas da Avaliação em Educação On-line;
+         6. Instrumentos e Procedimentos de Avaliação dos Alunos e da 
+Disciplina.
+
+Unidade 6 	 Histórico da Educação a Distância
+1. Contexto Histórico;
+2. Surgimento e Evolução da EAD;
+3. Gerações de EAD;
+4. A inserção da EAD no Brasil;
+5. Regulamentação da EAD no Brasil.  
+Concepção legal da EAD no Brasil;                                      
+Determinações legais sobre avaliação do aluno na EAD;                       
+                                                                                
+               
+Números recentes da EAD no Brasil.                                             
+     
+
+
+Mapa Conceitual da Disciplina Introdução à Educação a Distância
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+							FORMAS
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unidade 1 	Uma Introdução aos Fundamentos Teóricos e Metodológicos da 
+Educação a Distância
+
+1.1 - Situando a Temática
+Nesta unidade trataremos de questões relacionadas aos fundamentos básicos do 
+ensino - aprendizagem na Educação a Distância e das metodologias que dão 
+sustentação a essa modalidade de educação. Na perspectiva de entendermos 
+nossa inserção nesse processo, apresentaremos a UFPBVIRTUAL como integrante 
+do Sistema Universidade Aberta do Brasil - UAB.
+
+
+
+Discutiremos o modelo de educação adotado pela UFPBVIRTUAL e as expectativas 
+que temos com relação à implantação dos cursos. Faremos uma breve 
+apresentação de nosso ambiente virtual de aprendizagem e dos recursos 
+didáticos que apoiarão o desenvolvimento dos cursos. A Figura 1, a seguir, 
+ilustra o funcionamento da aprendizagem em rede que configura a base do 
+desenvolvimento da Educação a Distância na UFPBVIRTUAL
+   
+       Figura 1. A rede de aprendizagem na Educação Virtual. Fonte: Palloff & 
+Pratt (2004).
+Como elemento aglutinador e facilitador das relações indicadas na Figura 1, o 
+professor titular da disciplina que organiza os conteúdos e orienta o processo 
+educacional, os tutores presenciais atuando diretamente nos Pólos, numa 
+relação de 1 tutor para cada 25 alunos,  os tutores a distância, atuando 
+diretamente junto aos professores da UFPB, numa relação de 1 tutor para cada 
+100 alunos e os coordenadores de Pólo que organizam o processo e a infra 
+estrutura de apoio em cada município Pólo.
+1.2 - Problematizando a Temática
+Uma profusão de projetos de EAD baseados em tecnologias da Internet tem 
+marcado o cenário da educação brasileira desde os anos 90. As iniciativas 
+têm surgido como resposta imediata à necessidade de treinamento empresarial 
+e-learning e no mundo acadêmico principalmente nas instituições públicas 
+brasileiras, em projetos de formação de professores no atendimento aos 
+determinantes do art. 80 da Lei de Diretrizes e Bases da Educação Nacional 
+(LDB), que trata da inserção da EAD no sistema educacional. (Van der Linden 
+,2005).
+
+O e-Learning é caracterizado por processos educacionais baseados no uso da  
+Internet  e da colaboração virtual. Inclui entrega de conteúdos através da 
+Internet, extranet, intranet, áudio, vídeo, transmissão via satélite, 
+televisão interativa e CD-ROM.
+
+
+Com relação à formação de professores, essa expansão teve impulso em 
+1996, quando a LDB determinou que em 10 anos todos os professores do País 
+deveriam possuir nível superior. A falta de vagas para formação de 
+professores nas Instituições Públicas e a dispersão geográfica dos 
+professores “leigos”, atuantes nos mais longínquos recantos do país, 
+foram fatores que impulsionaram essa expansão. Embora tenhamos avançado nesse 
+período, sabemos que ainda temos um longo caminho a percorrer. 
+
+É possível perceber que desde a segunda metade dos anos 90 os ambientes de 
+trabalho, estudo e lazer vêm sendo significativamente impactados pela 
+incorporação das tecnologias, da informação e da comunicação. Esses 
+impactos têm sido percebidos particularmente no mundo do trabalho nas 
+relações que permeiam a educação e a construção de conhecimentos. Em 
+volta do mundo, países têm investido em universidades abertas e a distância 
+e atraído um número cada vez maior de estudantes. No foco dessa evolução 
+tecnológica, estão os resultados dos avanços da microeletrônica, na forma 
+dos computadores, de tecnologias digitais, de redes de fibra ótica e das 
+bandas de conexão, com impactos decisivos no modo de ensinar e aprender.
+
+Esse contexto, marcado pelo crescente aumento da capacidade de tráfego de 
+elementos multimídia nas redes de computadores, pela popularização da 
+Internet, e aumento de pesquisas e criação de Ambientes Virtuais de 
+Aprendizagem (AVA) estão criando condições técnicas e tornando atraente o 
+mundo da Educação a Distância. Ao mesmo tempo estão provocando novos 
+desafios em relação aos modelos tradicionais de ensino-aprendizagem, às 
+metodologias de ensino, à postura dos docentes e discentes e especialmente à 
+forma de ensinar e aprender. É nesse cenário que a educação a distância 
+tem sido chamada para dar respostas aos desafios postos pela sociedade do 
+conhecimento.
+
+Em texto escrito por Preti (2001) sobre “Educação a Distância e 
+Globalização: desafios e tendências”, o autor apresenta um panorama da EAD 
+no Brasil e no mundo e questiona: qual o sentido dessa expansão? A EAD tem as 
+potencialidades que estão sendo esperadas?  Como dar conta do divórcio entre 
+o desenvolvimento dos conhecimentos e as limitadas oportunidades de acesso aos 
+recursos tecnológicos, notadamente a Internet? Como assegurar a expansão da 
+educação e sua democratização, garantindo a qualidade do processo 
+educacional? Essas são questões que nortearão nossas discussões, com base 
+na realidade social em que a educação e a tecnologia são os motores dos 
+processos de aprendizagem e desenvolvimento na sociedade da Informação.
+
+
+Figura 2. Educação e Tecnologia em uma nova realidade social.  Fonte: Filatro 
+( 2004).
+
+1.3 - Conhecendo a Temática
+1.3.1	Da Educação a Distância à Educação Virtual
+
+Segundo Moran(2002), a Educação a Distância “é o processo de 
+ensino-aprendizagem, mediado por tecnologias, onde professores e alunos estão 
+separados espacial e/ou temporalmente”.
+
+Na literatura é comum encontrarmos os termos presencial, semi-presencial, a 
+distância, virtual e on-line,  para designar a natureza do curso: 
+* A educação presencial pressupõe o contato face a face entre professores e 
+alunos e tradicionalmente aplica-se a qualquer nível educacional, onde 
+professores e alunos se encontram sempre num local físico, chamado sala de 
+aula;
+
+* Aprendizagem híbrida ou “Blended learning”, modalidade onde os cursos 
+combinam diversos tipos de meios de aprendizagem, tanto através de tecnologias 
+(e-Learning), como através de métodos tradicionais como o ensino presencial. 
+Na  educação semi-presencial as atividades acontecem em parte na sala de aula 
+e em parte a distância;
+
+* O ensino a distância “é um sistema tecnológico de comunicação 
+bidirecional (multidirecional), que pode ser massivo, baseado em uma ação 
+sistemática e conjunta de recursos didáticos e o apoio de uma organização e 
+tutoria, que, separados fisicamente dos estudantes, propiciam a esses uma 
+aprendizagem independente.”(Aretio,2001). A educação a distância pode ter 
+ou não momentos presenciais, mas acontece fundamentalmente com professores e 
+alunos separados fisicamente no espaço e no tempo.
+
+Ao tratar das Modalidades de Educação Apoiadas em Redes de Comunicação,  
+Harasim (2003) apresenta os traços definidores de cada modalidade educativa, 
+destacando as diferenças e semelhanças entre Aprendizagem Colaborativa 
+On-line, Educação a Distância On-line e Treinamento On-line baseado em 
+computador. Um exemplo ilustrativo é apresentado na Figura 3 a seguir. 
+
+
+
+
+
+
+
+
+
+
+
+
+     Figura 3: Três tipos de educação on-line
+     Fonte : Van der Linden ( 2005)
+
+
+Em comum às três modalidades acima expostas, há o uso do computador e a 
+independência de lugar e tempo para sua realização. No entanto, as 
+diferenças substanciais podem ser percebidas com relação às formas de 
+interação, à condução dos estudos e de apoio aos alunos, conforme indicado 
+na Figura 4.
+     
+
+Fonte: Van der Linden(2005) adaptado de Harasim(2003).
+
+A Educação a Distância On-line é marcada pela idéia de educação em massa 
+com interação unidirecional (um para muitos), é assíncrona, baseada em 
+textos e mediada pelo computador. A comunicação se faz entre o estudante e a 
+Instituição.
+
+O Treinamento On-line baseado em computador é marcado pela ação individual 
+entre o sujeito e o material de apoio (um para um), com uso da multimídia 
+(softwares, CDs, vídeos) e avaliação informatizada com banco de respostas 
+para conferência.
+
+Na Aprendizagem Colaborativa On-line a construção do conhecimento desloca-se 
+da unidade de análise do indivíduo para a relação do indivíduo com o 
+ambiente e a interação com os outros (muitos para muitos, aprendizagem em 
+grupo). O diálogo assíncrono e a colaboração são característicos desse 
+tipo de aprendizagem que é concebida como processo social. (Van der 
+Linden,2005)
+
+Ampliando seu Conhecimento
+
+
+O conjunto de ferramentas da Internet possibilitou a comunicação entre os 
+interessados de diferentes formas. Segundo Aretio (2001), talvez a principal 
+distinção esteja na dimensão temporal. Quando há coincidência temporal no 
+ato comunicativo, com conexão simultânea, temos uma comunicação síncrona. 
+Quando a comunicação acontece sem que haja coincidência temporal, em que 
+emitente e destinatário não estão simultaneamente se comunicando em tempo 
+real, temos a comunicação assíncrona. As ferramentas disponíveis para uso 
+das comunidades virtuais possibilitam interações bidirecionais ou 
+multidirecionais, independente de serem síncronas ou assíncronas.
+
+Dialogando e Construindo Conhecimento
+
+
+
+
+
+
+Educação On-line é uma modalidade de ensino-aprendizagem que inclui uma 
+ampla gama de aplicações e processos, tais como aprendizagem baseada na 
+Internet, aulas virtuais e colaboração digital. Inclui a entrega de 
+conteúdos como áudio, vídeo, textos e animações através da Internet, 
+possibilitando o trabalho em equipes colaborativas. (Moran,2001)
+
+
+Ampliando seu Conhecimento
+
+
+
+
+
+
+
+
+
+
+1.3.2 	A Sala de Aula Virtual Moodle
+
+Na educação virtual a ferramenta que dá apoio às atividades dos alunos e 
+também às dos professores é o Ambiente Virtual de Aprendizagem (AVA). No 
+caso da UFPBVIRTUAL, o nosso ambiente é o Moodle e ele constitui a nossa sala 
+de aula virtual.
+
+
+
+Figura 5. Sala de Aula da Disciplina Introdução à EAD-UFPBVIRTUAL no 
+Ambiente Moodle.
+
+O Moodle é um recurso moderno especialmente por englobar ferramentas como 
+fóruns, chats, biblioteca virtual, material didático-pedagógico e tutorial. 
+Cada uma dessas ferramentas tem uma utilidade específica e contribui 
+decisivamente para interação dos participantes e acesso aos materiais 
+instrucionais elaborados pelos professores. São ferramentas que minimizam a 
+sensação de isolamento que poderia ocorrer na educação a distância.
+
+No Moodle, através de uma senha previamente cadastrada, o estudante tem acesso 
+ao conteúdo do curso e ao material didático, participa de fóruns de 
+discussão temáticos, resolve questionários e listas de exercícios no 
+computador além de uma série de atividades acadêmicas a escolha do tutor. 
+
+Na Unidade 2 estão apresentadas as ferramentas do Moodle e algumas regrinhas 
+básicas para explorar as suas potencialidades a fim de aumentar a eficácia do 
+curso.
+Dialogando e Construindo Conhecimento
+
+A Educação Virtual causa impactos e surpreende tanto os alunos quanto os 
+professores. No texto de Peggy Minnis Teaching in Your Pajamas: Lessons of 
+Online Classes versão original publicada em The New York Times Teacher's 
+Journal em 2003 e traduzido pelo IG Educação, disponível em 
+http://www.adur-rj.org.br/5com/pop-up/ensino_virtual.htm você vai encontrar 
+uma visão bem humorada do professor on-line e poderá refletir sobre as novas 
+funções docentes na educação virtual.
+Está disponível também no nosso ambiente Moodle.
+
+1.3.3 	UFPBVIRTUAL no Contexto da Universidade Aberta do Brasil – UAB
+
+A Universidade Aberta do Brasil - UAB é um projeto de vanguarda no cenário 
+educativo do nacional. UAB é o nome dado ao projeto criado pelo Ministério da 
+Educação (MEC), em 2005, para a articulação e integração experimental de 
+um sistema nacional de educação superior. Esse sistema é formado por 
+instituições públicas de ensino superior voltadas para a ampliação e 
+interiorização da oferta do ensino superior gratuito.
+Foi na segunda metade da década de 1990 com a aprovação da Lei de Diretrizes 
+e Bases (1996), que a modalidade de EAD ganhou destaque no ensino superior, 
+quando teve estabelecida a equivalência plena de diplomas obtidos nos cursos 
+presenciais e na modalidade à distância.
+Neste contexto, a Universidade Federal da Paraíba vem contribuindo de forma 
+significativa, com a democratização do ensino superior, desde o lançamento 
+do projeto UAB (em 2007) com a oferta de curso de licenciatura. 
+A UFPBVIRTUAL iniciou suas atividades em 2007 oferecendo os cursos de 
+Licenciatura Plena em Matemática, em Letras com habilitação em Língua 
+Portuguesa e em Pedagogia com habilitação em Educação Infantil, 
+acrescentando em 2008 os cursos de Licenciatura em Ciências Biológicas, em 
+Ciências Agrárias e em Ciências Naturais. Tais cursos, na modalidade a 
+distância, ao serem oferecidos pela UFPB, incorporam as práticas dessa 
+universidade proporcionando uma formação específica para os que atuam na 
+educação, principalmente nestas áreas do conhecimento, visando o resgate da 
+cidadania, a identidade profissional e o atendimento aos objetivos da 
+educação nacional.
+
+No ano de 2007 foram oferecidas 1.668 vagas no vestibular para 3 cursos e 21 
+Pólos de Apoio presencial. Em 2008, foram 2047 vagas para 6 cursos e 24 
+Pólos. 
+
+             Dialogando e Construindo Conhecimento
+
+O Brasil teve 2,2 milhões de alunos matriculados na Educação a Distância 
+-EAD em 2006, de acordo com o Anuário Brasileiro Estatístico de Educação 
+Aberta e a Distância ABRAEAD/2007. Consulte o site da ABRAEAD para obter 
+informações sobre a expansão da EAD no Brasil. Levante dados sobre este 
+cenário e reflita sobre esta expansão.
+Acesse:  
+http://blog.institutomonitor.com.br/category/anuario-de-educacao-a-distancia-abr
+aead/
+
+1.3.4	O Professor, o Aluno e a Comunidade Virtual de Aprendizagem
+
+Com a popularização da Internet e suas ferramentas, instala-se a lógica da 
+comunicação em substituição à lógica da transmissão, em que o receptor 
+é convidado à livre criação e a mensagem ganha sentido sob sua 
+intervenção. Nesse contexto, a interatividade possibilitada pelas tecnologias 
+de rede amplia as condições de interação e aprendizagem colaborativa 
+on-line ao configurar cenários educacionais próprios à cooperação e 
+colaboração, em apoio à construção de conhecimentos. Nesse cenário 
+instalam-se as Comunidades Virtuais de Aprendizagem.
+
+Discutir os papéis dos professores, tutores e alunos nas comunidades virtuais 
+representa o desafio a ser perseguido nesse item.
+
+“Quando o ensinar e o aprender deixam a sala de aula, cabe ao professor criar 
+uma espécie de embalagem na qual o curso transcorre com o envio de metas, de 
+objetivos e de resultados esperados, com diretrizes iniciais de participação, 
+com pensamentos e questões que estimulem a discussão e com tarefas que sejam 
+completadas colaborativamente”.( Palloff e Pratt, 2002)
+
+O que é uma comunidade de aprendizagem? Quais os papéis dos participantes nas 
+comunidades virtuais? O que leva aos bons resultados?
+
+Existe uma diferença entre comunidade de aprendizagem on-line e uma comunidade 
+on-line, ou grupo on-line em que as pessoas se encontram para compartilhar um 
+interesse mútuo. Segundo Van der Linden (2005) apoiada em Palloff e Pratt 
+(2004) é o envolvimento com a aprendizagem colaborativa e a prática reflexiva 
+implícita na aprendizagem transformadora que caracterizam a comunidade de 
+aprendizagem on-line. Para esses autores, uma comunidade de aprendizagem 
+on-line caracteriza-se pelos seguintes resultados: 
+
+* “Interação ativa que envolve tanto o conteúdo do curso quanto a 
+comunicação pessoal;
+
+* Aprendizagem colaborativa evidenciada pelos comentários dirigidos 
+primeiramente de um aluno a outro aluno e não do aluno ao professor;
+
+* Significados construídos socialmente e evidenciados pela concordância ou 
+questionamento, com intenção de se chegar a um acordo;
+
+* Compartilhamento de recursos entre os alunos e,
+
+* Expressões de apoio e estímulo trocadas entre os alunos, tanto quanto a 
+vontade de avaliar criticamente o trabalho dos outros”. (Pallof e Pratt, 2004)
+
+Nesse sentido, os ambientes virtuais de aprendizagem configuram a base para 
+vivenciarmos as chamadas comunidades de aprendizagem onde o diálogo ocupa 
+posição central. Nesse contexto, parece-nos que o estabelecimento de 
+mecanismos de avaliação que contemplem a participação on-line constitui 
+passo importante para compreensão do processo de aprendizagem na construção 
+do conhecimento na educação virtual. Na Unidade 5 abordaremos questões 
+acerca da avaliação em Ambientes Virtuais de Aprendizagem.
+
+A postura dos alunos no ambiente virtual vai refletir seu envolvimento com o 
+curso e  sua trajetória de aprendizagem. A aquisição de novos hábitos será 
+necessária para ter sucesso. Na unidade 3 trataremos do aluno virtual: suas 
+necessidades, seu comportamento e o seu papel na formação de uma comunidade 
+de aprendizagem.
+
+Considerando que educação é comunicação e que o ato didático é acima de 
+tudo um processo comunicativo, parece-nos relevante compreender a importância 
+que as Comunidades Virtuais de Aprendizagem têm para aprendizagem colaborativa 
+on-line. A unidade 4 será dedicada ao exame desta questão.
+
+Dialogando e Construindo Conhecimento
+
+
+
+
+
+
+
+
+
+
+1.4 - Avaliando o que foi construído
+
+Ancoradas na idéia defendida por estudiosos da temática de que a sociedade da 
+informação requer sujeitos capazes de acessar dados e outorgar-lhes 
+significados, esperamos que ao final desta unidade em que abordamos as idéias 
+básicas e os fundamentos da Educação a Distância, você esteja motivado 
+para continuar pesquisando e construindo significados acerca do tema 
+introduzido. 
+Unidade 2	Apresentação e Ambientação da sala de aula virtual Moodle
+
+2.1 - Situando a Temática
+Pensar na Educação a Distância implica pensar na didática, nos métodos de 
+ensino, na interação professor-aluno, nas questões de planejamento. 
+Significa compreender que a mudança em processo exige nova concepção sobre 
+os alunos como seres críticos e participativos, com autonomia e capacidade de 
+tomar decisões. Esse cenário exige uma concepção contextualizada de ensino 
+que privilegie a participação, o diálogo, a autonomia e a reflexão 
+permanente por parte dos professores, dos tutores e dos alunos sobre as 
+múltiplas dimensões que envolvem a aprendizagem colaborativa.
+É bem possível que para muitos de vocês esta seja a primeira experiência 
+com Educação a Distância, com aulas em ambientes virtuais de aprendizagem e 
+certamente o primeiro contato com a plataforma Moodle da UFPBVIRTUAL.
+Assim sendo, nesta unidade conheceremos e exploraremos a potencialidade das 
+ferramentas do Moodle tais como chat, fórum, glossário, tarefa, wiki, entre 
+outras, de modo que você possa desenvolver habilidades de cooperação, 
+colaboração e autonomia em seus estudos.
+
+Figura 1. Ambiente Moodle da UFPBVIRTUAL.
+2.2 - Problematizando a Temática
+Na educação a distância professores e alunos podem estar separados no 
+espaço e no tempo, mas existe comunicação e interação entre ambos e, no 
+caso da educação virtual, essa mediação é feita por recursos multimídia, 
+com apoio de tutoria especializada. Tais recursos devem garantir a qualidade e 
+a eficácia do curso. Geralmente, são utilizados materiais impressos, vídeos, 
+hipertextos, CDs, DVDs, entre outros, sempre focados no aluno e nas suas 
+necessidades de aprendizagem.
+Alguns procedimentos e práticas rotineiras da vida de um estudante tradicional 
+você certamente já conhece: assiduidade nas aulas, participação nas 
+discussões com o professor e com os outros alunos, realização de provas e 
+avaliações constantes, cumprimento de tarefas, interação face a face com o 
+professor, esclarecimento de dúvidas, realização de pesquisa, estudo do 
+material do curso, além de dedicação de algumas horas para o estudo 
+diariamente. 
+
+Neste curso de educação a distância, como são as práticas e os 
+procedimentos? Como se serão as aulas? O que é um ambiente virtual de 
+aprendizagem? Como a plataforma Moodle pode contribuir diretamente em suas 
+atividades acadêmicas? Como o professor da disciplina vai saber se você está 
+indo bem nos estudos? Se um aluno é ausente, como o professor vai perceber? 
+Como usar o computador para entregar tarefas? Como interagir com a sua turma em 
+um ambiente virtual? O que os alunos precisam para ter sucesso? Buscaremos 
+responder a esses questionamentos no nosso 10 Encontro Presencial. Depois 
+continuaremos discutindo no fórum da disciplina, no Moodle.
+
+
+
+Em relação uso das ferramentas, iremos “aprender fazendo”, através da 
+plataforma Moodle. Este será o ambiente de aprendizagem que servirá de 
+suporte para todas as disciplinas do Curso. Nele, os professores poderão 
+acompanhar o registro e a participação dos alunos. Podem ainda monitorar as 
+atividades cumpridas e as interações, através de relatórios 
+individualizados fornecidos pelo sistema.
+
+
+2.3 - Conhecendo a Temática
+
+2.3.1	O Ambiente Virtual de Aprendizagem Moodle
+Moodle (Modular Object Oriented Distance Learning Environment) é um sistema 
+para gerenciamento de cursos (SGC) - um programa para computador destinado a 
+auxiliar educadores a criar cursos de qualidade via Internet. Este sistema de 
+educação é também chamado de Sistema de Gerenciamento de Aprendizagem ou 
+Ambiente Virtual de Aprendizagem (AVA). De maneira informal, utiliza-se o termo 
+plataforma educacional.
+
+De acordo com informações disponíveis em  www.moodle.org, até a data em que 
+este texto foi escrito, a comunidade mundial do Moodle já possuía mais de 400 
+mil usuários registrados apenas neste site, falando mais de 75 idiomas em 193 
+países, entre professores e alunos não apenas nas universidades, mas também 
+em instituições com diversos níveis de escolaridade, organizações não 
+lucrativas, companhias privadas e por professores de forma independente. Uma 
+das principais vantagens do Moodle é que ele é fundamentado para pôr em 
+prática uma aprendizagem sócio-construtivista.
+
+De acordo com essa abordagem, a mediação do processo de ensino e aprendizagem 
+não se resume ao planejamento, ministração de aulas e orientações 
+oferecidas pelo professor. Consiste em transformar as aulas em processos 
+contínuos de informação, comunicação e de pesquisa, que resultem na 
+criação ativa de conhecimentos significativos, numa relação de equilíbrio 
+entre professores, tutores e os alunos-participantes ativos. Na figura a 
+seguir, apresentaremos uma ilustração da estrutura para a aprendizagem a 
+distância e o relacionamento entre os elementos que a integram.
+
+ Figura 2. Estrutura para a Aprendizagem a Distância. Fonte: Adaptado de 
+Palloff &Pratt(2002).
+Ampliando seu Conhecimento
+
+
+
+2.3.2		Filosofia do Moodle
+
+O Moodle foi criado por Martin Dougiamas profissional de informática com 
+formação em Pedagogia. Sua primeira versão foi lançada no dia 20 de agosto 
+de 2002 e a mais atual 1.9.2 no dia 11 de julho de 2008. O Moodle foi concebido 
+tendo uma base sólida na pedagogia.
+ 
+A concepção e o desenvolvimento do Moodle são guiados por uma filosofia 
+sócio-construtivista de pensar o processo de educação-aprendizagem. Isto é, 
+considera que as pessoas constroem ativamente novos conhecimentos, a partir de 
+conhecimentos prévios, à medida que interagem com seu ambiente e com os 
+demais participantes. A interação torna-se particularmente eficaz quando 
+possibilita a construção do conhecimento de forma colaborativa. A idéia é 
+criar uma cultura de compartilhamento e colaboração na construção de 
+significados.
+
+Ampliando seu Conhecimento
+
+
+
+
+
+2.3.3		Ferramentas do Moodle
+
+O Moodle oferece uma variedade de ferramentas que podem aumentar a eficácia de 
+um curso on-line. É possível facilmente compartilhar materiais de estudo, 
+montar listas de discussões, aplicar testes de avaliação e pesquisas de 
+opinião, coletar e revisar tarefas e acessar e registrar notas, entre outras. 
+As ferramentas podem ser selecionadas pelo professor de acordo com seus 
+objetivos pedagógicos.
+
+Todas estas possibilidades potencializam a aula virtual e a interação entre 
+os participantes. A familiarização do estudante com as ferramentas 
+disponíveis no ambiente é necessária para que o mesmo possa participar 
+ativamente do Curso. Assim sendo, vamos apresentar cada uma destas ferramentas 
+e mostrar como devem ser utilizadas.  
+
+As ferramentas do Moodle são apresentadas na forma de Materiais de Estudo 
+(Recursos) e Atividades. Cada ferramenta vem indicada por um ícone que serve 
+para facilitar a identificação do tipo de atividade ou de material de estudo.
+
+
+Materiais de Estudo
+
+
+O professor pode lançar no Moodle materiais didáticos como: Texto Simples; 
+Link a um arquivo ou site e Livro. Esses materiais podem ser lidos pelos alunos 
+diretamente na própria tela do computador, ou então salvos no computador, CD, 
+disquete, pen drive etc. É possível ainda imprimi-los. Vejamos esses 
+materiais. Observe os ícones que aparecem ao lado de cada um.
+
+  O que é um Texto Simples?
+
+É uma ferramenta que permite ao professor disponibilizar no Moodle pequenos 
+textos editados por ele mesmo. Normalmente estes textos são utilizados como 
+referência para uma atividade posterior. 
+
+O que é um link a um arquivo ou site?
+
+É uma ferramenta que permite ao professor disponibilizar material de diversas 
+formas. Por exemplo, um arquivo feito no Word (  ), uma apresentação em forma 
+de slides usando o Power Point  ( )  , um texto no formato PDF do Adobe Acrobat 
+() ou uma tabela Excel ().
+Esses materiais são selecionados ou produzidos pelo professor e 
+disponibilizados aos alunos no Moodle. É fácil identificar os programas onde 
+esses arquivos foram gerados através dos respectivos ícones. 
+
+Além disso, o professor também poderá fazer um link (ligação) com uma 
+página na Internet que contenha informação relacionada à temática em 
+estudo. Neste caso, basta o usuário clicar com o mouse no local indicado, que 
+automaticamente o site será aberto.
+
+  O que é um Livro?
+
+É simplesmente um material de estudo com várias páginas organizadas por 
+capítulos e itens, onde o professor apresenta um conteúdo e organiza os temas 
+de estudo. Não é um livro convencional, é apenas um material didático 
+elaborado pelo professor para auto-estudo dos alunos.
+
+
+Atividades
+
+As principais atividades do Moodle são: Chat, Fórum, Tarefa, Pesquisa de 
+Avaliação, Questionário, Diário, Glossário, Wiki, Lição e Base de Dados. 
+
+O que é um Chat?
+
+O chat, em inglês, significa bate-papo e, como veremos mais adiante, 
+diferentemente do fórum, o chat é uma atividade de comunicação síncrona. 
+Ou seja, é uma conversa que ocorre em tempo real. Para que essa conversa 
+aconteça, os participantes devem se conectar no espaço reservado ao chat no 
+Moodle nos horários e nos dias previamente agendados. Este espaço é chamado 
+de sala de bate-papo.  O Moodle também registra no calendário esses eventos.
+ 
+Um grupo de alunos pode combinar sessões adicionais de bate–papo (além das 
+estabelecidas pelo professor) e acessar o ambiente a qualquer momento e em 
+qualquer lugar.  Este é um espaço muito especial para interações sociais, 
+mas também pode ser utilizado para tirar dúvidas.
+
+   O que é um Fórum?
+
+Esta é uma das ferramentas mais importantes de interação em cursos virtuais 
+e por isso também é bastante utilizada como meio de avaliação. Consiste 
+numa conversa em que os participantes não estão conectados no mesmo instante, 
+e por isso é chamada de interação assíncrona. Cada participante do fórum 
+escolhe o dia e a hora de participar.
+
+O espaço fórum pode ser usado de diferentes formas: uma entrevista com um 
+professor convidado onde os alunos elaboram as perguntas, debate entre grupos e 
+com o professor da disciplina, um espaço onde o professor disponibiliza 
+perguntas mais freqüentes sobre um determinado assunto ou onde grupos de 
+alunos questionem outros grupos. Tudo vai depender da orientação do professor 
+e do interesse dos participantes. O Moodle  dispõe de vários tipos de fóruns 
+. Os fóruns podem ter as seguintes características:
+Discussão simples - é um único tópico em uma única página. Normalmente é 
+usado para organizar discussões breves com foco em um tema preciso.
+Fórum geral - é um fórum aberto, onde todos os participantes podem iniciar 
+um novo tópico de discussão quando quiserem.
+Cada usuário inicia apenas um novo tópico - cada participante pode abrir 
+apenas um novo tópico de discussão, mas todos podem responder livremente às 
+mensagens, sem limites de quantidades. Este formato é usado, por exemplo, nas 
+atividades em que cada participante apresenta um tema a ser discutido e atua 
+como moderador da discussão deste tema.
+Nesta disciplina temos ainda um Fórum que é utilizado com Painel de Notícias 
+em que  o professor e sua equipe coloca os avisos e recomendações da 
+disciplina.
+
+O professor pode criar vários fóruns na disciplina, e esses fóruns podem ser 
+de qualquer um dos tipos citados, podendo permanecer abertos durante todo o 
+curso ou abertos para discussão temporária. Os que permanecem abertos são, 
+geralmente, um Fórum de Notícias e um Fórum Social, para proporcionar 
+interação social entre os participantes.
+
+No fórum, as mensagens podem ser inseridas com calma e devem ter valor do 
+ponto de vista coletivo. É preciso refletir sobre a qualidade do conteúdo das 
+mensagens a serem postadas e nunca perder de vista o foco central da 
+discussão. As mensagens podem ser lidas posteriormente por qualquer 
+participante e podem ainda ser disponibilizadas via e-mail para cada um. 
+
+Existem algumas regrinhas para uma adequada participação no fórum. Essas 
+regrinhas são chamadas de “Netiqueta” e as estudaremos mais adiante na 
+Unidade 3.
+
+  O que é uma Tarefa?
+
+Uma tarefa consiste na descrição ou enunciado de uma atividade a ser 
+desenvolvida pelo aluno.  O enunciado da tarefa contém explicações objetivas 
+de como ela deve ser realizada, indica prazos de entrega, informa se é 
+permitido enviar uma segunda resposta, indica se será atribuída uma 
+pontuação para avaliação e de quanto será essa pontuação.   As tarefas 
+podem ser de três tipos: Texto on-line, onde o aluno digita sua resposta no 
+próprio ambiente; Envio de Arquivo Único, onde o aluno envia para o ambiente 
+um arquivo com sua resposta; e ainda Atividade Off-line, usada pelos 
+professores e tutores para colocar no ambiente as notas de atividades 
+realizadas fora do ambiente, como a prova presencial. No caso da Tarefa de 
+Envio de Arquivo Único o arquivo de resposta do aluno deve ser salvo 
+anteriormente no computador, disquete, CD ou pen drive.
+
+  O que é uma Pesquisa de Avaliação? 
+
+Este recurso consiste num conjunto de atividades relacionadas à avaliação 
+das várias  dimensões do processo educacional, entre elas, as perspectivas do 
+aluno, a avaliação do próprio curso, e a  auto-avaliação. A partir das 
+respostas dos alunos, são gerados relatórios agregados e individualizados que 
+possibilitam o acompanhamento do aluno e da turma como um todo.
+
+  O que é um Questionário? 
+
+Esta é uma atividade que permite ao aluno responder no Moodle a um conjunto de 
+questões do tipo: múltipla escolha, verdadeiro ou falso, associação, para 
+completar,  resposta breve. O professor pode controlar o período de duração 
+desta atividade e inclusive permitir que o aluno revise as suas respostas antes 
+de passar adiante. Pode ainda permitir que o aluno responda por etapas ou de 
+uma única vez.
+
+  O que é um Diário?
+
+É uma ferramenta usada pelo aluno para relatar, como em um diário comum, as 
+suas atividades e suas experiências. Apenas o próprio aluno e seu professor 
+terão acesso a esse diário.
+
+Para o professor as informações contidas no Diário são importantes para que 
+ele possa acompanhar a aprendizagem do aluno.  Por exemplo, as dificuldades em 
+lidar com a informática, em realizar alguma tarefa, em acessar materiais, as 
+boas experiências que teve, os temas que mais gostou de discutir e ainda, suas 
+reflexões pessoais.
+Para o aluno, o diário constitui importante ferramenta de auto-reflexão sobre 
+seu desempenho no Curso e ainda serve de espaço para anotações de temas 
+estudados.
+
+   O que é um Glossário?
+
+Esta atividade permite que os participantes criem e atualizem uma lista de 
+definições como em um dicionário. No entanto, o que o diferencia de um 
+dicionário é a necessidade de contextualizar os termos. Podemos criar vários 
+glossários ao mesmo tempo: um glossário principal e os demais secundários 
+cujos itens podem ser exportados para o glossário principal. É possível 
+ainda fazer links nos textos do curso que levam aos itens definidos no 
+glossário.
+
+   O que é um Wiki?
+
+Um Wiki é uma coleção de documentos criados de forma coletiva no ambiente da 
+Internet. Alguém inicia o documento sobre determinado tema, inserindo um 
+parágrafo ou texto de sua autoria. É permitido aos outros participantes 
+editar e adicionar novos parágrafos a este Wiki. Para cada Wiki o professor 
+especifica os objetivos e o conteúdo a ser construído. Nele podem ser 
+elaborados de forma coletiva, anotações de aulas, resumos gerais de textos 
+extensos, artigos, relatórios etc.
+
+Um Wiki pode ser desenvolvido por toda a turma ou por grupos menores. O 
+trabalho resultante pode ser visto e criticado pelo conjunto dos participantes 
+e não somente pelo professor, podendo ser usado como fonte de dados por outras 
+pessoas e não apenas corrigido e arquivado.
+
+Ampliando seu Conhecimento
+
+
+O que é Lição? 
+
+Uma Lição consiste em um texto sobre determinado assunto, ao qual se seguem 
+questionamentos com alternativas de respostas. Dependendo da resposta escolhida 
+pelo aluno ele prossegue na lição ou pode retornar para a mesma página. O 
+professor poderá disponibilizar várias seções da mesma lição para livre 
+escolha do aluno, ou ainda determinar uma seqüência a ser seguida.
+
+   O que é Base de Dados? 
+
+Uma base de dados é uma atividade que permite a construção de uma coleção 
+de dados sobre determinado assunto, onde os participantes podem inserir e/ou 
+pesquisar itens. É constituída de registros, e cada registro é composto por 
+certa quantidade de campos. Os campos podem ter informações de diferentes 
+tipos com imagens, arquivos, URLs, números, textos dentre outras.
+
+
+Dialogando e Construindo Conhecimento
+2.4 - Avaliando o que foi construído
+Esperamos que durante essa unidade você possa ter aprendido sobre as 
+principais funcionalidades das ferramentas do Moodle e que de agora em diante 
+se sinta confortável em participar das aulas através do Ambiente Virtual de 
+Aprendizagem Moodle, que será utilizado por todas as disciplinas da 
+UFPBVIRTUAL.
+Esperamos ainda que possa ter desenvolvido habilidades de trabalho colaborativo 
+e que tenha refletido sobre os temas abordados. 
+
+Unidade 3 		O Aluno Virtual
+3.1 - Situando a Temática
+A Educação a Distância apoiada nas tecnologias da comunicação e nas novas 
+metodologias de ensino tem implicado em modificações nas funções 
+tradicionais de ensinar e aprender, transformando definitivamente o conceito de 
+“sala de aula”. Muda-se da sala de aula típica no campus para a sala de 
+aula virtual no ciberespaço. É nesse ambiente de aprendizagem que se 
+estabelecem as novas relações entre os participantes.
+Professores e alunos comportam-se diferentemente nos dois tipos de sala; a 
+forma como se dá o processo de aprendizagem também é diferente, no entanto, 
+em ambas as modalidades o objetivo é sempre o mesmo: construir novos 
+conhecimentos e educar para cidadania.
+Se é verdade que "ninguém educa ninguém", por outro lado, "ninguém se educa 
+sozinho". Nesse sentido, a educação a distância, paradoxalmente, impõe 
+interlocução permanente e, portanto, proximidade pelo diálogo (Preti, 2000). 
+Aproximar as pessoas que se encontram fisicamente distantes e estabelecer 
+relações de cooperação e colaboração para uma aprendizagem significativa, 
+representa um desafio a ser enfrentado.
+Nesta unidade trataremos desse processo de transição e focalizaremos o papel 
+do aluno nessa modalidade educacional. Refletiremos sobre questões da 
+conquista da autonomia dos alunos e das regras de convivência e estratégias 
+de comunicação para participação em comunidades de aprendizagem que levem o 
+aluno a obter sucesso em cursos virtuais.
+
+Ampliando seu Conhecimento
+3.2 - Problematizando a Temática
+“Feche por uns minutos os olhos e imagine uma escola sem salas de aula, sem 
+paredes, sem carteiras, com estudantes indo e vindo, conversando, lendo em 
+diferentes espaços livres, ora reunidos em equipe, ora desenvolvendo 
+atividades individuais, com horários diversificados para atendimento 
+individual ou em grupos, com calendário flexível, acompanhamento 
+personalizado, sob a orientação de um grupo de educadores, etc. Talvez, você 
+exclamará surpreso: "Esta escola não existe. Quem sabe, num futuro seja 
+possível!"
+Não estou falando da educação do futuro. Na realidade, estou falando de uma 
+educação real e atual, possível e que está acontecendo em nosso país, 
+sobretudo, na modalidade a distância, graças aos avanços das novas teorias 
+da Física, da Biologia, da Psicologia, da Comunicação, da Pedagogia, etc. e 
+às novas tecnologias da comunicação”. (Oreste Preti,1996)*
+Aprender em um ambiente virtual é bem diferente de aprender em uma sala de 
+aula tradicional. É preciso romper barreiras e adquirir hábitos novos como 
+por exemplo, acessar a Internet para estar atualizado com o curso, fazer as 
+atividades semanalmente, participar do fórum e fazer leitura, reflexões e 
+comentários a respeito das mensagens. É importante desenvolver a autonomia e 
+tornar-se um aluno independente, pesquisador crítico e colaborar com os 
+participantes com feedbacks construtivos. 
+
+Você se sente preparado para ser um aluno virtual? Até que ponto a 
+aprendizagem on-line se encaixa no seu estilo de vida? Que habilidades você 
+possui e que habilidades precisa desenvolver para ter sucesso em seu Curso 
+On-line? 
+
+3.3 - Conhecendo a Temática
+
+3.3.1	Quem é o Aluno Virtual?
+Conhecer o perfil dos alunos, suas idiossincrasias e seus estilos de 
+construção do conhecimento é tarefa prioritária e ao mesmo tempo de extrema 
+dificuldade quando se trata da educação on-line. Segundo estudiosos da 
+temática isso é requisito necessário, seja como suporte para definir e 
+planejar um projeto educativo seja para acompanhar e avaliar o mesmo. Ao 
+refletir sobre a interação nos cursos virtuais há necessidade de se resgatar 
+os saberes prévios dos alunos, em conformidade com as teorias cognitivas da 
+aprendizagem. Nesse sentido é necessário gerar situações de diálogo na 
+perspectiva de conseguir informações sobre “suas representações da 
+realidade, suas demandas e seus interesses, suas atividades de trabalho e suas 
+formas particulares de estabelecer relações entre os conhecimentos teóricos 
+e práticos”. (Van der Linden:2005)
+Na tentativa de estabelecermos esse diálogo e de nos conhecermos um pouco 
+mais, foram aplicados dois questionários de avaliação. O primeiro, um 
+instrumento de avaliação diagnóstica, que foi respondido off-line na 
+primeira semana de aula. O segundo instrumento, atividade on-line, teve por 
+objetivo fazer uma pesquisa sobre as suas expectativas em relação ao seu 
+processo de aprendizagem neste curso. 
+“O que fazer para se tornar um aluno virtual de sucesso?”
+Segundo PALLOFF & PRATT, (2004) “os cursos e programas on-line não foram 
+feitos para todo mundo.”. Por quê?  Vamos refletir sobre os fundamentos 
+dessa assertiva!
+Ampliando seu Conhecimento
+Atividade de Auto-Avaliação: Você pode fazer uma auto-reflexão respondendo 
+para si próprio às Questões de Auto Avaliação nas páginas 183 e 184 na 
+“Caixa de Ferramentas do Aluno Virtual” do livro O Aluno Virtual de 
+PALLOFF, & PRATT ( 2004), Em seguida, na página 185 leia as Explicações 
+elaboradas pelos autores. Na seqüência, observe a Lista de verificação para 
+auto-avaliação nas páginas 185 e 186. Para finalizar, leia as Dicas para ser 
+um aluno on-line de sucesso nas páginas 186 e 187.
+
+
+O fórum da disciplina será o espaço em que os resultados de suas reflexões 
+individuais 
+sobre sua auto-avaliação serão abordados e socializados. É importante que 
+sejam identificadas as potencialidades, os pontos mais problemáticos e as 
+formas de superá-los. 
+
+
+3.3.2		Comportamento Autônomo
+
+“Pode-se dizer que o “calcanhar de aquiles” na educaçào a distância é 
+a situação de aprendizagem individual. O estudar sem a presença regular de 
+colegas e professores desafia o cursista a superar suas limitações pessoais e 
+desenvolver sua capacidade de aprender autonomamente, de aprender a aprender. 
+Esse processo exige envolvimento tanto da instituição como do cursista 
+inscrito. A instituição coloca à disposição do Cursista todo o seu sistema 
+(recursos humanos, materiais, redes de comunicação) para dar suporte à 
+caminhada. Por outro lado, o cursista deve mergulhar, assumindo para si, 
+também a responsabilidade de sua formação.(...)” (Preti,2000)
+
+Estudar sem a presença regular do professor e colegas desafia o aluno virtual 
+a superar suas limitações pessoais e a desenvolver sua capacidade de aprender 
+autonomamente, de “aprender a aprender”. O aluno assume para si a 
+responsabilidade de sua formação, tendo como suporte alguns componentes 
+materiais e humanos pensados e planejados, acompanhados e avaliados para que o 
+mesmo tenha a possibilidade de construir essa autonomia durante o processo.  
+Essa perspectiva coloca o aluno como sujeito, autor e condutor de seu processo 
+de formação, apropriação, re-elaboração e construção do conhecimento.
+
+Ampliando seu Conhecimento
+
+• Sobre comportamento autônomo Leia “Autonomia do Aprendiz na Educação a 
+Distância” Capítulo 7 In PRETI, Oreste - Org. (2000) Educação a 
+Distância: construindo significados. 
+• Sobre Autonomia .Leia o Capitulo 3 do livro Didática do Ensino a 
+Distância de Otto Peters, ( 2001) páginas 93 a 104 
+
+
+Auto-aprendizagem
+
+A auto-aprendizagem é uma tarefa pessoal, onde se exercita a autonomia 
+enquanto uma ação educativa no processo de ensino-aprendizagem. A idéia de 
+auto-aprendizagem é fundamental para a Educação a Distância, modalidade em 
+que os aprendizes autonomamente estabelecem uma ação interativa com os 
+materiais didáticos e interagem com os colegas e professores, estimulados por 
+ações pedagógicas de tutores e professores que atuam como “provocadores 
+cognitivos”. 
+
+Nesse ambiente os participantes desenvolvem a capacidade de determinar seu 
+ritmo de aprendizagem, ao acessar o conteúdo quando e quantas vezes quiser na 
+busca de compreender o que de fato lhes desperta o interesse.
+ Para apoiar esse exercício de autonomia e de auto-aprendizagem os 
+participantes podem contar com ferramentas específicas, que oferecem 
+oportunidade de acessar informações e estabelecer contatos síncronos e 
+assíncronos com os atores do processo educacional.
+
+Ampliando seu Conhecimento
+
+ Leia mais sobre dimensões da autonomia enquanto ação educativa no Capítulo 
+7 páginas, 132 a 144, In PRETI, Oreste – Org. .(2000) Educação a 
+Distância: construindo significados. 
+Nesse capítulo, a questão da autonomia é abordada a partir das dimensões 
+ontológica, política, afetiva, metodológica, técnico instrumental e 
+operacional.
+Exercite sua autonomia: leia e reflita sobre cada uma dessas dimensões.
+
+
+Gerenciamento do tempo
+
+O tempo dedicado a necessária participação dos alunos e professores é de 
+fundamental importância em ambientes virtuais de aprendizagem. Com 
+freqüência o aluno não se dá conta de quanto tempo é necessário para 
+participar de um curso virtual e finalizá-lo com sucesso. É importante 
+estabelecer metas e estruturar-se para administrar as atividades de forma 
+racional. Estudar on-line não se resume a passar o maior tempo conectado á 
+sala de aula virtual. Deve haver tempo para pesquisa e comunicação, mas 
+também deve ser reservado tempo para leituras, reflexões e realização das 
+atividades propostas. 
+
+Ampliando seu Conhecimento
+Tempo e Comprometimento é o tema tratado no Capítulo 7 do livro de PALLOFF, & 
+PRATT( 2004). O Aluno Virtual. Na página 109, os autores sintetizam em um 
+quadro cinco questões relativas ao gerenciamento do tempo e apresentam 
+técnicas para ajudar na racionalidade de seu uso.
+Em PALLOFF & PRATT (2002), Construindo Comunidades de Aprendizagem no 
+Ciberespaço, capítulo 4, p.71 a 86, você encontra mais informações sobre o 
+gerenciamento do tempo. Leia , amplie seus conhecimentos!
+Estabelecer objetivos e prioridades e organizar a agenda para facilitar o 
+gerenciamento do tempo não se permitindo ficar atrasado por excesso de 
+trabalho e falta de organização, fazem parte da estratégia do aluno virtual, 
+que autonomamente definirá sua agenda de estudo e o ritmo de sua aprendizagem.
+
+Esta agenda pode ser uma tabela com objetivos semanais, atividades a realizar, 
+o tempo estimado e finalmente um espaço em que você analisa se essa meta foi 
+cumprida no prazo ou não. A idéia é que você desenvolva o hábito de 
+gerenciar seu tempo. No entanto, algumas pessoas acham esse recurso um elemento 
+de limitação. Se for assim para você, procure outra maneira de estruturar e 
+organizar seu tempo. É bom relembrar que de acordo com Litwin (2001) a 
+variável tempo historicamente tem sido considerada de maneira flexível e 
+adaptável às possibilidades e às necessidades de cada aluno.
+
+Lembramos que no ambiente Moodle, cada aluno possui um calendário pessoal onde 
+poderá agendar suas atividades para não esquecê-las. 
+3.3.3	Regras de Convivência e Ferramentas de Comunicação
+Neste espaço trataremos de questões relacionadas à propriedade intelectual e 
+direitos autorais, que precisam ser observados na elaboração dos trabalhos, 
+assim como as regras de comunicação on-line que devem nortear a vivência dos 
+participantes na sala de aula virtual.
+
+Em EAD estimula-se bastante a participação, colaboração e interação dos 
+participantes em listas de discussões, chats e fóruns. Estimulam-se ainda 
+atividades em que os alunos se posicionem a respeito das mensagens dos colegas.
+
+É necessário saber como se expressar para que o outro entenda perfeitamente o 
+que foi dito. É preciso ser claro para transmitir seus pontos de vista com 
+eficácia.
+Outro ponto relevante está relacionado à propriedade intelectual e aos 
+direitos autorais que precisam ser observados na elaboração dos trabalhos. 
+
+Apresentamos a seguir algumas regras de convivência e ferramentas de 
+comunicação on-line. Elas podem tornar a comunicação mais fácil, e 
+representam um recurso para que os participantes possam manter boas relações 
+no seu ambiente de estudo, seja como alunos ou como tutores.
+
+
+Ética e Netiqueta
+
+Segundo a Wikipédia “Netiqueta é a etiqueta que se recomenda observar na 
+internet. A palavra pode ser considerada como uma gíria, decorrente da fusão 
+de duas palavras: o termo inglês net (que significa "rede") e o termo 
+"etiqueta" (conjunto de normas de conduta sociais). Trata-se de um conjunto de 
+recomendações para evitar mal-entendidos em comunicações via internet, 
+especialmente em e-mails, chats, listas de discussão, etc. Serve, também, 
+para regrar condutas em situações específicas (por exemplo, ao colocar-se a 
+resenha de um livro na internet, informar que naquele texto existem spoilers; 
+citar nome do site, do autor de um texto transcrito, etc”
+
+Nenhuma sala de aula virtual é totalmente privativa, principalmente quando se 
+estimula a aprendizagem colaborativa e a interação entre os participantes. As 
+pessoas têm liberdade de visitar qualquer espaço permitido na Internet. 
+Porém o que se observa freqüentemente é um mau uso dos recursos de 
+comunicação acarretando em uma total invasão de privacidade seja por 
+violação de senhas, fraudes, assédio, perseguição, distorção nos 
+conteúdos das mensagens, montagens fotográficas dentre outras. 
+
+Para garantir que a comunicação seja profissional e respeitosa, os alunos 
+precisam ser orientados a usar uma comunicação adequada. É na forma de 
+escrever e se expressar que você será conhecido pelos demais alunos do seu 
+ambiente de aprendizagem. A netiqueta é um conjunto de regrinhas que devem ser 
+seguidas quando se está escrevendo qualquer texto on-line para alguém. Elas 
+são a etiqueta de quem navega na Internet. 
+
+Na nossa sala de aula devemos equilibrar o diálogo aberto com a cautela. 
+Questões de privacidade e de liberdade de expressão merecem atenção. Os 
+participantes devem ser estimulados a se expressarem livremente, mesmo que haja 
+opiniões contrárias. Contudo alguns limites devem ser determinados como, por 
+exemplo, o uso de linguagem agressiva ou desrespeitosa que pode ter resultados 
+desastrosos em uma comunidade de aprendizagem.
+
+Não existem políticas ou regras claras sobre questões legais envolvidas na 
+aprendizagem virtual, porém, acreditamos que é fundamental refletir sobre que 
+comportamentos são ou não são aceitáveis. Em caso de quebra de ética o 
+professor confrontará ou fará intervenções imediatamente. Para evitar 
+qualquer transtorno, devemos sempre reconhecer os autores e suas idéias e 
+respeitar os participantes em discussões on-line.
+
+Emoticons
+
+
+De acordo com a Wikipédia os “emoticons são uma forma de comunicação 
+paralingüística, um emoticon (em alguns casos chamados de smiley) é uma 
+seqüência de caracteres tipográficos, tais como: :), ou ^-^ e :-); ou, 
+também, uma imagem (usualmente, pequena), que traduz ou quer transmitir o 
+estado psicológico, emotivo, de quem os emprega, por meio de ícones 
+ilustrativos de uma expressão facial. 
+Exemplos: (i.e. sorrindo, estou alegre); (estou triste, chorando), etc. 
+Normalmente é usado por MSN (Microsoft Network) ou pelo ICQ e outros meios de 
+mensagens rápidas. O Nome "emoticon" deriva da contração do inglês 
+emotion+icon.”
+
+
+
+De acordo com Palloff e Pratt (2004) os emoticons são utilizados para suprir a 
+impossibilidade de atribuir ao que se escreve: um tom de voz, uma expressão 
+facial ou linguagem corporal. Vejamos a seguir alguns exemplos apresentados 
+pelos autores:
+
+: )  ou  :-)Expressa alegria, sarcasmo ou piada: (Expressa tristeza: IExpressa indiferença: QExpressa confusão: OExpressa surpresa ou grito
+Clareza
+
+A clareza é uma qualidade de quem escreve bem e quer se fazer entender. A 
+maior dificuldade que a maioria dos participantes de atividades on-line 
+encontram é transformar as idéias em texto, utilizando palavras corretas no 
+momento certo. Quando a palavra não expressa suficientemente o que ela quer 
+dizer, o texto acaba transformando-se numa  fileira de palavras desconexas e 
+sem sentido. Isso acontece quando não organizamos as idéias antes de iniciar 
+a escrita, escrevendo-as sem pensar no texto como um todo.
+
+Por outro lado, quando recebemos uma mensagem em que as idéias estão bem 
+articuladas e a grafia está correta, conseguimos entender exatamente o que o 
+emitente pretende nos dizer. Isso facilita a comunicação e evita conflitos. 
+Na comunicação on-line redigir com clareza é um aspecto crucial, uma vez que 
+a comunicação é basicamente textual e é através do que escrevemos que as 
+pessoas nos conhecem.
+
+Uma tática para ser claro na comunicação on-line é escrever em um rascunho 
+(digitar previamente o texto no Word), ler o texto em voz alta e passar um 
+corretor ortográfico  antes de enviá-lo. Quando lemos, fica mais fácil 
+detectarmos onde a frase ficou mal escrita e confusa. Para ser claro no seu 
+texto e na sua forma de expor suas idéias é bom evitar o uso de siglas e 
+abreviações. Nem todos conhecem as siglas que nós conhecemos e estamos 
+acostumados a usar. É importante ainda destacar que na comunicação on-line 
+você é percebido pelo que você escreve e assim, é importante cuidar das 
+questões de ortografia, da articulação das frases e da gramática. Você 
+certamente já deve ter recebido alguma mensagem cheia de erros gramaticais e 
+pode avaliar a dificuldade que isso pode acarretar, especialmente quando você 
+não conhece o emitente.
+
+Citações
+
+“A citação é a menção no texto de uma informação colhida em outra 
+fonte. Seu objetivo é dar maior clareza e autoridade ao texto, relacionando as 
+idéias expostas com idéias defendidas em outros trabalhos, por outros 
+autores. É obrigatório indicar os dados completos das fontes de onde foram 
+extraídas as citações, seja em nota de rodapé, ou em lista no fim do 
+texto”. Extraído integralmente do site do Departamento de Sistema de 
+Informação da Universidade Estadual do Rio de Janeiro, consultado em 
+30.06.2007
+
+
+
+
+Ampliando seu Conhecimento 
+
+Consulte as Normas da Associação Brasileira de Normas Técnicas-ABNT. No site 
+do Departamento de Sistema de Informação da Universidade Estadual do Rio de 
+Janeiro- UERF você vai encontrar algumas dicas importantes de como fazer 
+citações em seus trabalhos. 
+Visite   http://www.desc.eng.uerj.br/doku.php/como_fazer_citacoes
+
+As citações são utilizadas no desenvolvimento de trabalhos acadêmicos, 
+monografias, relatórios, dissertações, teses, etc. Também são consideradas 
+como recursos importantes na comunicação on-line. Uma citação é feita 
+quando inserimos no nosso texto, partes do texto de alguém. No mundo virtual, 
+embora seja útil o “copiar e colar”, esta prática pode comprometer a 
+qualidade do trabalho e sua validade acadêmica, fazendo com que as pessoas 
+desistam da leitura do texto. 
+Na Caixa de Ferramentas do Aluno Virtual - Recurso B: Ferramentas do Aluno do 
+livro de PALLOFF, & PRATT( 2004). O Aluno Virtual , nas páginas 190 a 192 os 
+autores apresentam algumas regrinhas no item Citação que nos ajudam na 
+comunicação on-line. Não deixe de ler antes de começar sua participação 
+no fórum  da disciplina.
+
+Feedback
+
+O termo feedback  em EAD está relacionado a responder aos posicionamentos e 
+questionamentos dos participantes em um fórum de discussão ou no correio 
+eletrônico. Em uma modalidade educacional que prioriza a aprendizagem 
+colaborativa, o feedback é essencial para ajudar a aperfeiçoar a relação 
+dos indivíduos com o grupo, ajudando-os a interagir socialmente e estimular e 
+aprofundar as discussões sobre temas em estudo. 
+
+Para que o feedback seja construtivo deve haver uma relação de confiança e 
+proximidade entre os participantes e o respeito às normas de convivência 
+tratadas anteriormente nos itens clareza e netiqueta.
+Segundo Vigotsky (1998), o desenvolvimento de atividades interpessoais 
+possibilita mudanças cognitivas através da interação, com a conseqüente 
+reelaboração e reconstrução das idéias. Nesse sentido, no processo 
+interativo e social as idéias postas são elucidadas resultando em novas 
+concepções, em avanços em termos de proposições, sínteses, teorias, 
+hipóteses, aplicáveis em contextos diversos. (Van der Linden, 2005)
+
+O debate on-line pautado nesses princípios pode contribuir para o 
+desenvolvimento de habilidades cognitivas e das atitudes colaborativas 
+requeridas pela aprendizagem on-line. Nesse sentido, dar um feedback 
+construtivo que não se resuma ao “concordo” ou “discordo”, deve 
+contribuir para o ato de aprender dos sujeitos participantes. Isso requer 
+sujeitos ativos e propositivos, que no debate em rede saibam não só propor, 
+perguntar mas também responder (dar feedback) concordando, indagando, 
+problematizando, discordando, questionando, generalizando, esclarecendo, 
+sintetizando ou aprofundando o tema,  estendendo-o a outros campos do 
+saber.(Van der Linden,2005)
+
+Dialogando e Construindo Conhecimento
+
+
+
+
+
+
+3.4 -  Avaliando o que foi construído
+
+Segundo Palloff & Pratt (2002) no processo de aprendizagem on-line, os 
+participantes aprendem não apenas sobre a matéria do curso, mas também sobre 
+o processo de aprendizagem e sobre si mesmos. Os participantes estão 
+conectados ao professor por meio de um computador. Desenvolvem, portanto, não 
+apenas relacionamentos entre si, mas também com a tecnologia, com o hardware, 
+com o software e com o próprio processo que, segundo Van der Linden ( 2005) 
+envolve: 
+
+* Reflexão sobre o conhecimento adquirido no curso ou evento;
+* Conhecimento de como a aprendizagem ocorre eletronicamente;
+* Uso da tecnologia da comunicação e da informação e, 
+* Transformação do usuário por meio dos novos relacionamentos com a 
+máquina, com o processo de aprendizagem e com os outros participantes. 
+Nossa expectativa é que durante esta unidade tenhamos feito você refletir 
+sobre as atitudes mais adequadas a um aluno virtual que almeja atingir o 
+sucesso no seu curso. Esperamos ainda que você encare os recursos da Internet 
+nesse espaço de aprendizagem, não apenas como uma ferramenta individual, mas 
+como um instrumento de colaboração e reconstrução, através do qual possa 
+se comunicar e aprender de forma colaborativa, através de projetos e 
+atividades comuns. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unidade 4 	Comunidades Virtuais de Aprendizagem
+
+4.1 - Situando a Temática
+“Uma comunidade virtual é uma comunidade que estabelece relações num 
+espaço virtual através de meios de comunicação a distância. Caracteriza-se 
+pela aglutinação de um grupo de indivíduos com interesses comuns que trocam 
+experiências e informações no ambiente virtual. Um dos principais fatores 
+que potencializam a criação de comunidades virtuais é a dispersão 
+geográfica dos membros. O uso das Tecnologias de Informação e Comunicação 
+- TICs minimizam as dificuldades relacionadas a tempo e espaço, promovendo o 
+compartilhamento de informações e a criação de conhecimento coletivo”. 
+Fonte: Wikipédia.
+No contexto acima, podemos considerar que a forma como as pessoas interagem na 
+atualidade está fortemente ligada ao uso e a popularidade das Tecnologias da 
+Informação e Comunicação (TIC), especialmente da Internet.
+
+A Internet favorece a comunicação, seja através de e-mails, de sites de 
+relacionamento ou até mesmo quando algum material é compartilhado ou 
+produzido em equipe. As pessoas interagem umas com as outras, independente da 
+distância física que as separam, formando grupos cada vez maiores e pelas 
+mais variadas razões.
+
+Neste processo a Internet expande os parâmetros daquilo que chamamos de 
+comunidade. Basta notar que no passado, o envolvimento com a comunidade era 
+determinado pelo local onde se vivia (cidade ou bairro), pela família ou pelas 
+convicções religiosas. Atualmente, além dessas concepções de comunidade, 
+temos aquelas que se formam e se mantêm no ciberespaço com objetivos comuns, 
+papéis, normas e regras.
+
+É o desenvolvimento de uma sólida Comunidade de Aprendizagem (educacional), e 
+não somente de uma Comunidade de Interesse ou de uma Comunidade de prática, 
+que visamos explorar nesta unidade temática. Traremos questões relativas à 
+idéia de Interação e Interatividade, Colaboração, o Silêncio Virtual e a 
+importância do Ambiente Virtual para a consolidação da nossa Comunidade 
+UFPBVIRTUAL de aprendizagem.
+
+4.2 - Problematizando a Temática
+Os ambientes virtuais de aprendizagem configuram a base para vivenciarmos as 
+chamadas comunidades virtuais de aprendizagem, onde o diálogo ocupa posição 
+central. Nesse contexto, a criação de condições técnicas e apoio 
+pedagógico ao desenvolvimento do diálogo didático on-line constituem passos 
+importantes para sua realização. O desenvolvimento de comunidades de 
+aprendizagem e o uso de atividades colaborativas ao longo do curso são 
+maneiras de facilitar a aprendizagem, contemplando os diferentes estilos de 
+aprendizagem dos adultos. Mas o que são estilos de aprendizagem? 
+
+Boud e Griffin (1987 citado por Palloff e Pratt 2004) afirmam que todos possuem 
+seis capacidades de aprendizagem: racional, emocional, relacional, física, 
+metafórica e espiritual.
+
+Ampliando seu Conhecimento
+
+Veja a Tabela 3.1 na página 60 do Livro O Aluno Virtual de PALLOFF & PRATT ( 
+2004). Nela estão sintetizados os vários estilos de aprendizagem e as 
+técnicas instrucionais que podem ser adotadas para o seu desenvolvimento.
+
+
+Considerando que a educação virtual em sua maior parte é baseada no texto, 
+que tem foco no racional, como valorizar essa capacidade e como desenvolver 
+maneira de facilitar as demais dimensões? 
+
+Além dos diferentes estilos é necessário considerar uma série de problemas 
+que dificultam a participação que os alunos enfrentam no meio digital. Podem 
+ser problemas relacionados com as dimensões sociais ou cognitivas da 
+aprendizagem, ou simplesmente problemas de ordem técnica (de disponibilidade 
+ou de uso da tecnologia apropriada), ou falta de habilidade para acessar a 
+Internet por exemplo, que dificultam participação dos mesmos nas comunidades 
+de aprendizagem e muitas vezes prejudicam sua  trajetória acadêmica.
+
+Segundo Harasim e colaboradores (1993) os maiores problemas apontados pelos 
+alunos virtuais estão relacionados a: sobrecarga de informação, maior carga 
+de trabalho e de responsabilidades, ansiedade em relação à comunicação 
+assíncrona, dificuldade de navegar na Internet, dificuldade em acompanhar os 
+rumos da discussão, perda de informações visuais e ainda preocupações 
+relacionadas à saúde pelo uso do computador.  
+
+Esses problemas que afligem a maioria dos participantes on-line dificultam a 
+participação mas não impedem interação. Hoje existem estudos sobre 
+técnicas de gerenciamento do tempo que objetivam minimizar alguns desses 
+problemas. Na Unidade 3 no item Gerenciamento do Tempo você vai encontrar 
+informações que poderão ajudá-lo no enfrentamento de alguns desses 
+problemas.
+
+Com esses questionamentos buscamos compreender o papel do aluno na formação 
+de uma comunidade virtual de aprendizagem e os desafios a serem enfrentados. 
+Tem-se como perspectiva entender de que forma os participantes de uma 
+comunidade virtual de aprendizagem podem contribuir para a formação e 
+manutenção de um ambiente agradável e fértil para a construção de 
+conhecimentos.
+
+4.3 - Conhecendo a Temática
+
+A tecnologia hoje disponível permite a implementação de ambientes de intensa 
+interação, possibilitando aos participantes agir criativamente. Ela contribui 
+para o desenvolvimento das interações, favorecendo a participação e o 
+compartilhamento de experiências e descobertas durante o processo de 
+aprendizagem. 
+
+No entanto, a tecnologia por si só não é suficiente para a promoção da 
+aprendizagem. O desenvolvimento da aprendizagem interativa requer ação humana 
+voltada para definição de estratégias de participação, a começar pela 
+identificação dos participantes e avaliação e integração de 
+informações. Requer metodologias que possam situar o aluno no centro do 
+processo educacional e levar o professor a torrnar-se um “provocador 
+cognitivo”, facilitador, avaliador e mediador de significados.
+
+
+
+
+Ampliando seu Conhecimento
+
+P de Aula Virtual”  
+
+A Figura 1 a seguir, ilustra a estrutura e as articulações que se estabelecem 
+em uma comunidade virtual de aprendizagem. 
+
+
+
+
+
+
+
+
+
+Figura 1. Estrutura para a aprendizagem a distância. Fonte: Palloff e Pratt 
+(2004).
+
+Palloff & Pratt (2004) sugerem algumas técnicas de design instrucional 
+centradas no aluno para apoiá-lo na educação on-line, relacionadas a 
+“acesso; habilidades comunicativas; abertura; comprometimento; colaboração; 
+reflexão e flexibilidade”
+
+São técnicas que instrumentalizam o professor para ajudar o aluno a entender 
+o importante papel que ele desempenha no processo de aprendizagem e ajudam o 
+aluno a situar-se no seio de uma comunidade de aprendizagem on-line. 
+
+Ampliando seu Conhecimento
+
+
+
+
+A comunidade virtual representa o veículo através do qual ocorre a 
+aprendizagem colaborativa na sala de aula virtual. Os participantes dependem 
+uns dos outros para que a comunidade cresça e os objetivos sejam alcançados. 
+Nesse ambiente, “os professores promovem um sentido de autonomia, iniciativa 
+e criatividade, ao mesmo tempo em que incentivam o questionamento, o pensamento 
+crítico, o diálogo e a colaboração.” ( Broofild, 1995 citado por Palloff 
+& Pratt , 2002)
+
+Além de promover a aprendizagem, a comunidade virtual promove conexões 
+sociais entre os participantes, e embora o professor e os tutores sejam os 
+incentivadores desse processo ele só acontece se houver efetiva participação 
+dos alunos.
+
+ 
+
+
+4.3.1                     Ambientes Virtuais de Aprendizagem - AVA
+
+Os ambientes virtuais de aprendizagem são plataformas para o desenvolvimento 
+de cursos virtuais. Trata-se da estruturação em um único espaço dos 
+serviços de apoio educacional on-line oferecidos aos estudantes através da 
+Internet.
+
+Uma ampla relação de endereços de ambientes virtuais utilizados está 
+disponível em
+http://www.clubedoprofessor.com.br/ead/ambientes.html
+Em aula magistral proferida em uma universidade brasileira, no ano de 2001, 
+Otto Peters, da FernUniversität (Hagen, Alemanha), descreveu os ambientes de 
+aprendizagem virtuais, ilustrando sua descrição com uma tela vibrante de um 
+monitor. Por trás dela, há um cenário onde existe uma esfera ilimitada e 
+potencialmente passível de abranger o mundo e até o cosmo. Nele, o espaço é 
+aberto e incomensurável, tempo e local não são fixos. (Van der Linden, 2005)
+É um espaço não protegido onde pessoas e objetos são flutuantes e 
+transitórios e mudam com freqüência e rapidez. Os alunos não interagem face 
+a face, em grupos, mas entram em contato com colegas e professores e tutores em 
+lugares indefinidos. Em vez de ouvir e falar, os estudantes lêem e escrevem. 
+Não há ambiente real em que os estudantes e professores possam interagir face 
+a face, e a dimensão histórica se perde inteiramente. São espaços tão 
+diferentes dos espaços reais de aprendizagem que nos causam um choque de 
+reconhecimento ao refletir sobre os mesmos. 
+Por outro lado, não podemos analisar os AVA apenas como ferramentas 
+tecnológicas. É necessário analisar as práticas e posturas pedagógicas e 
+também comunicacionais do ambiente. Tais práticas inspiram ambientes 
+instrucionistas, interativos e cooperativos.
+
+Os ambientes que são classificados como instrucionistas estão mais centrados 
+no conteúdo. A interação é mínima e a participação online do aluno é 
+praticamente individual. É considerado o tipo mais comum onde a informação 
+é transmitida como em uma aula tradicional presencial.
+
+Os ambientes interativos estão centrados na interação on-line, onde a 
+participação é essencial no curso. 
+
+Por fim, em ambientes cooperativos, seus objetivos são o trabalho colaborativo 
+e a participação on-line.
+O Moodle nosso ambiente de aprendizagem foi pensado e estruturado com 
+incorporação de uma sólida comunidade de aprendizagem, uma vez que dispõe 
+de recursos interativos que facilitam a colaboração, estimulam a 
+investigação e também a interação entre os alunos, tutores e professores.
+
+4.3.2	Comunidades Virtuais de Aprendizagem
+
+
+O conceito de comunidade virtual tem sido utilizado para explicar formações 
+espontâneas de pessoas que se reúnem na “grande rede” em torno de 
+determinado assunto ou tema de interesse comum. (Lévy, 2001) 
+
+Segundo Van der Linden (2005) existe uma diferença entre comunidade de 
+aprendizagem on-line e uma comunidade on-line ou grupo on-line, em que as 
+pessoas se encontram para compartilhar um interesse mútuo. No site do Orkut 
+por exemplo, existem inúmeras comunidades on-line ou grupos de 
+relacionamentos, mas não se constituem comunidades de aprendizagem . 
+
+No ciberespaço, as comunidades podem ser diferenciadas segundo alguns 
+critérios. Um estudo sobre a classificação das comunidades virtuais é feito 
+por Szaló e Silva (2003), que destaca: 
+
+• A intenção de formação da comunidade, ou seja, de um objetivo mais ou 
+menos definido, associado a uma atividade que irá desenvolver para a 
+construção do conhecimento. Essa intenção de formação será posta em 
+prática através de ações como o estabelecimento de metas para o grupo, 
+lista de participantes, ferramentas de comunicação e a adoção de regras de 
+conduta da comunidade.
+
+• O nível de envolvimento dos seus participantes, que depende da intensidade 
+de sua ligação, maior ou menor coesão do grupo.
+
+• A evolução da intenção e da integração entre os participantes da 
+comunidade. O nível de atividade de uma comunidade virtual evolui quando o 
+objetivo da comunidade se consolida.
+
+Sendo assim, temos as chamadas Comunidades de Interesse, Comunidades de 
+Prática e Comunidades Educacionais (de Aprendizagem), que buscaremos 
+caracterizá-las.
+
+Comunidades de Interesse: O aprendizado é mais individual que coletivo, o 
+objetivo não é dirigido para uma produção coletiva. Segundo Szaló e Silva 
+(2003) “..é um agregado de pessoas reunidas em torno de um tema de interesse 
+comum”.
+
+Esses autores explicam que uma comunidade de interesse pode ter uma duração 
+variável, isto é, pode desaparecer logo após ter sido criada por não ter 
+conseguido incorporar participantes, ou ao contrário durar anos. 
+
+		Ampliando seu Conhecimento
+
+
+Comunidades de Prática: Segundo o teórico organizacional Etienne Wenger, que 
+cunhou o termo no início dos anos 90, três elementos definem uma comunidade 
+de prática. O primeiro é o tema sobre o qual se fala (é preciso definir um 
+interesse comum). O segundo são as pessoas, que têm de interagir e construir 
+relações entre si em torno do tema. E o terceiro é a prática, a ação. 
+Reunidas em comunidades virtuais, as pessoas aprendem juntas como fazer coisas 
+pelas quais se interessam.
+Seus membros podem fazer parte de um mesmo departamento, serem de diferentes 
+áreas de uma companhia, ou até mesmo de diferentes companhias e 
+instituições. Elas estão ligadas no que diz respeito a uma área de 
+atuação profissional comum, buscando a socialização para a solução de 
+questionamentos.
+
+Ampliando seu Conhecimento
+
+
+Comunidades Educacionais: São constituídas por alunos, de uma mesma classe, 
+de uma mesma instituição ou alunos geograficamente dispersos. O que se busca 
+nesta comunidade é o aprendizado através do relacionamento social, baseado 
+nas teorias construtivistas. Ao contrário das demais, a construção do 
+conhecimento se dá através de orientações de um professor e sua relação 
+com os objetivos de uma disciplina ou programa institucional. 
+
+Conforme o exposto anteriormente, ao contrário das Comunidades de Interesse, 
+as  Comunidades de Prática e as Comunidades Educacionais possuem uma 
+intenção mais forte de formação e maior coesão e envolvimento dos 
+participantes. 
+
+Para Pallof & Pratt (2004) é o envolvimento com a aprendizagem colaborativa e 
+a prática reflexiva implícita na aprendizagem transformadora que definem as 
+Comunidades Educacionais ou de Aprendizagem. Para esses autores, uma comunidade 
+de aprendizagem on-line se caracteriza pelos seguintes resultados: 
+
+* “Interação ativa que envolve tanto o conteúdo do curso quanto a 
+comunicação pessoal;
+
+* Aprendizagem colaborativa evidenciada pelos comentários dirigidos 
+primeiramente de um aluno a outro aluno e não do aluno ao professor;
+
+* Significados construídos socialmente e evidenciados pela concordância ou 
+questionamento, com intenção de se chegar a um acordo;
+* Compartilhamento de recursos entre os alunos e,
+
+* Expressões de apoio e estímulo trocadas entre os alunos, tanto quanto a 
+vontade de avaliar criticamente o trabalho dos outros”. (Palloff e Pratt, 
+2004)
+A seguir abordaremos questões relativas à idéia de aprendizagem colaborativa 
+no seio das comunidades virtuais de aprendizagem. Discutiremos o papel do aluno 
+na comunidade virtual, suas formas de participação, os fatores 
+impulsionadores da interação e interatividade em um ambiente virtual e a 
+colaboração como atitude indispensável à manutenção de uma comunidade de 
+aprendizagem. Abordaremos ainda questões relacionadas ao comportamento de 
+passividade ou omissão dos participantes, denominado de silêncio virtual.
+4.3.3	O Papel do Aluno na Comunidade Virtual
+
+“O Lado do Aluno nas Comunidades de Aprendizagem On-line” é abordado por 
+Palloff & Pratt( 2004) no livro O Aluno Virtual. Os autores destacam que a 
+interação social que acontece na comunidade, estabelece os fundamentos da 
+comunidade de aprendizagem, cujo objetivo é o envolvimento no curso. Para os 
+autores, ”compartilhar a informação, os interesses e os recursos, é parte 
+integrante da educação on-line”. É a base da aprendizagem colaborativa em 
+que a construção de significados é feita pelo conjunto dos participantes.
+
+Segundo Palloff & Pratt (2004) o professor de um curso virtual é uma espécie 
+de arquiteto da comunidade de aprendizagem, já que faz, a princípio, o 
+planejamento. Contudo, são os alunos que, como engenheiros, estruturam o 
+curso. 
+
+Ampliando seu Conhecimento
+
+
+
+
+
+A aplicação das técnicas de design instrucional centradas no aluno requer o 
+estabelecimento de algumas precondições do aluno on-line. Os autores acima 
+mencionados destacam as seguintes:
+* Ter acesso a um computador e a um modem ou conexão de alta velocidade e 
+saber usá-los;
+* Possuir mente aberta para compartilhar detalhes sobre sua vida, trabalho e 
+outras experiências educacionais;
+* Não se sentir prejudicado pela ausência de sinais auditivos ou visuais no 
+processo de comunicação;
+* Dedicar uma quantidade significativa de seu tempo semanal a estudos e não 
+ver o curso como uma maneira mais fácil de obter crédito;
+* Ter capacidade de refletir e pensar criticamente ou estar potencialmente 
+disposto a desenvolver essas capacidades, e
+* Acreditar que a aprendizagem de alta qualidade pode acontecer em qualquer 
+lugar e a qualquer momento.
+* 
+Dialogando e Construindo Conhecimento
+
+Agora é a sua vez de colaborar com a nossa comunidade. Busque outros 
+“papéis” que devem ser assumidos pelo aluno virtual para a formação e 
+preservação de uma comunidade de aprendizagem. Em seguida socialize com os 
+demais os resultados da sua pesquisa. Iremos promover esse momento e as 
+informações para esta atividade estarão disponíveis no Moodle. Acesse 
+constantemente e participe!
+
+
+4.3.4		Interação e Interatividade
+Freqüentemente os termos interação e interatividade são utilizados na 
+literatura especializada como sinônimos. Pela etimologia da palavra, 
+interação é uma ação recíproca entre pessoas ou coisas. Nesse sentido o 
+termo permite muitos significados: interação estudante-estudante; 
+estudante-professor; estudante-materiais de estudo; estudante-sistema de 
+avaliação etc. (Van der Linden,2005).
+Na comunicação on-line o termo interação aplica-se especificamente a uma 
+ação recíproca entre dois ou mais atores onde ocorre a comunicação, o 
+diálogo, a troca de idéias. Diferentemente da educação tradicional em que a 
+interação é face a face, na EAD a interação dar-se-á de forma indireta, 
+mediatizada por algum veículo técnico de comunicação (telefone, e-mail, 
+chat, fórum, etc).
+
+Figura 2. Interação. Fonte: TAJRA, Sanmya Feitosa ( 2002).
+Nas comunidades virtuais de aprendizagem, as interações ocorrem quando os 
+sujeitos modificam-se, como resultado da construção de novos saberes 
+socialmente construídos. Compõem o processo de interação os seguintes 
+elementos: emissor, canal, mensagem, receptor, interpretação e conteúdo 
+devolutivo. .(Tajra,2002)
+Já o termo Interatividade é visto como uma nova forma de interação técnica 
+homem - máquina, de característica eletrônico-digital oferecida por 
+determinado meio (CD-ROM, consulta, hipertextos ou jogos, ambientes virtuais, 
+computadores etc).
+Dialogando e Construindo Conhecimento
+Um detalhamento minucioso das Técnicas de Design Instrucional que dão Apoio 
+aos Alunos On-Line pode ser encontrado na Tabela 1.1. p. 34 e 35. do livro de 
+PALLOFF, R & PRATT, K. O Aluno Virtual . Leia e pratique! 
+Leia mais... Uma Análise Autopoiética das Comunidades Virtuais por TAJRA, 
+Sanmya Feitosa (2002), no Capítulo 4 do livro Comunidades Virtuais: um 
+fenômeno na sociedade do conhecimento. 
+Ampliando seu Conhecimento
+Se quiser saber um pouco mais sobre tipos de interação, consulte o site 
+http://usr.psico.ufrgs.br/~aprimo/pb/espiralpb.htm Você vai encontrar um 
+artigo de PRIMO, Alex F. T.  que trata da “Interação Mútua e Interação 
+Reativa: uma proposta de estudo”
+
+
+4.3.5		O Silêncio Virtual
+
+O silêncio virtual "faz parte" e já é mesmo esperado em cursos on-line, em 
+virtude da cultura da oralidade que marca a formação da grande maioria dos 
+participantes. Muitos alunos sentem-se inibidos, não se sentindo à vontade 
+com a cultura da comunicação on-line, ou seja, com uma comunicação baseada 
+na escrita e aberta a todos os participantes. Essa situação é definida como 
+“silêncio virtual”.
+
+É um desafio a ser superado, visto que em ambientes colaborativos a 
+participação é imprescindível sob pena de fracassar o propósito. O 
+silêncio virtual pode ser um momento de reflexão, e nesse caso, não impede a 
+aprendizagem, mas quando muito prolongado barra a colaboração e o 
+compartilhamento de conhecimento. Respeitando o tempo e estilo de cada um, deve 
+haver um esforço coletivo para que todos se coloquem num ambiente de 
+confiança e liberdade de pensar e participem da comunidade de aprendizagem.
+
+Ressalte-se que a educação on-line pressupõe colaboração e o participante 
+precisa estar integrado, dinâmico e compromissado. Os silenciosos, aqueles que 
+não se manifestam, quebram a interação e a dinâmica do grupo. Assim, a 
+passividade dos participantes merece reflexão por parte dos educadores e 
+avaliadores para que, entendendo suas razões, possam conduzir o trabalho 
+educativo na perspectiva da colaboração e do incentivo a posturas 
+questionadoras diante da realidade.
+
+As reflexões sobre o silêncio virtual e as regras de convivência e 
+participação nas comunidades de aprendizagem tem suscitado as seguintes 
+questões: será que mesmo sem se manifestar os alunos aprendem? O silêncio 
+atrapalha o processo de aquisição do conhecimento? E quanto a avaliação, 
+como avaliar um aluno virtual que participa muito pouco?
+
+Como saber se os estudantes “invisíveis” estão realmente aprendendo, como 
+gastam o tempo no ambiente on-line e se seu comportamento on-line influencia 
+seus estilos de aprendizagem? Seriam os participantes silenciosos aprendizes 
+autodidatas que preferem permanecer tão anônimos e autônomos quanto 
+possível ou estão perdidos no ambiente virtual e não encontram os caminhos 
+da comunicação? Estudos sugerem que a maioria dos estudantes estaria 
+freqüentemente processando as idéias obtidas no curso, mesmo nas situações 
+em que não estariam visivelmente participando. (Van der Linden,2005)
+
+Estudiosos da temática alertam que na comunicação - componente essencial na 
+educação on-line - não existe aluno presente inativo, o lurker é 
+invisível. Daí porque geralmente são estabelecidas diretrizes para que haja 
+uma participação mínima aceitável, estimulando a interação e facilitando 
+a construção colaborativa do conhecimento e o processo criativo do grupo. 
+
+Como medida prática, é recomendável que no começo de um curso, as normas de 
+participação devam ser explicitadas, tais como o número de mensagens 
+necessárias semanalmente e a importância do contexto das mensagens. É 
+importante destacar que, não é o envio de mensagens, mas o conteúdo delas 
+que tem importância na interação on-line. Se estiverem fora do contexto, 
+nada acrescentam.
+
+
+            Dialogando e Construindo Conhecimento
+
+
+
+
+
+
+
+
+
+
+4.4 - Avaliando o que foi Construído
+
+
+Esperamos que as questões desta unidade tenham feito você refletir sobre a 
+importância do estabelecimento e preservação de uma comunidade no nosso 
+ambiente virtual. Os elos que se estabelecem são importantes não só para a 
+socialização do conhecimento adquirido mas também para o compartilhamento 
+das dificuldades e dúvidas que aparecem nas experiências pessoais. Cada aluno 
+tem um papel dentro da nossa comunidade de aprendizagem UFPBVIRTUAL.
+Pelos nossos objetivos de aprendizagem, a nossa comunidade se diferencia das 
+demais comunidades virtuais. Estamos interessados em construir uma atmosfera 
+agradável e convidativa para o ensino e aprendizagem a distância. Nossa 
+comunidade de aprendizagem está apoiada tecnicamente nos fóruns do ambiente 
+virtual Moodle através do fórum social, do fórum de notícias e do fórum da 
+disciplina direcionados à discussão dos conteúdos específicos desse Curso. 
+No entanto nossas relações interpessoais são construídas e alimentadas 
+também nos contatos permanentes seja através de e-mail, telefonemas, 
+feedbacks, chats e algumas vezes face a face. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unidade 5 	Avaliação em Ambientes Virtuais apoiados pela Internet 
+
+5.1 - Situando a Temática
+Nesta unidade abordaremos a questão da avaliação em Educação a Distância, 
+focalizando as atividades interativas e colaborativas. Discutiremos as 
+dimensões e fundamentos da avaliação educacional, os objetos de avaliação 
+on-line, recursos e ferramentas utilizados para apoiar a avaliação em 
+ambientes virtuais interativos e por fim, a avaliação dos alunos e da nossa 
+disciplina Introdução a EAD.
+5.2 - Problematizando a Temática
+A avaliação sempre esteve dentro da escola, na sala de aula especificamente, 
+limitada à avaliação dos alunos, sendo executada através de testes, notas e 
+boletins de desempenho. Esta forma de “julgamento” parte de critérios 
+rígidos e estáticos que não dão conta de avaliar o processo de construção 
+do conhecimento, revelando-se então um problema. O caráter da avaliação 
+deve ser mais amplo e dinâmico e deve destinar-se não apenas a compreender, 
+mas a promover ações em benefício da educação e dos educandos. 
+
+Existem na literatura várias dimensões relacionadas à avaliação: a 
+centrada no estudante, a que focaliza o professor, a que tem em mira o material 
+instrucional ou os cursos/programas, ou ainda a centrada na instituição ou no 
+próprio sistema educacional.
+
+Se focalizarmos a Educação a Distância apoiada pelos recursos da Internet, 
+quais os princípios que norteiam a avaliação da aprendizagem dessa 
+modalidade de educação? Cabe destacar que a incorporação das tecnologias da 
+Internet à educação tem menos de uma década, fato que pode indicar um dos 
+motivos de ainda serem reduzidos os estudos específicos sobre avaliação da 
+educação mediada por computadores. 
+
+
+
+5.3 - Conhecendo a Temática
+
+5.3.1	As Dimensões da Avaliação
+
+Na perspectiva de fomentar a discussão sobre o caráter multidimensional da 
+avaliação, apresentaremos a seguir considerações preliminares sobre a 
+diversidade de enfoques, classificações, dimensões e tipos de avaliação 
+que se estabelecem no confronto das idéias e práticas pedagógicas.
+
+A avaliação somativa é identificada com a forma de avaliação 
+tradicionalmente utilizada nas escolas. Presta-se à comparabilidade de 
+resultados obtidos por diferentes alunos, métodos ou materiais de ensino. 
+Concebida como julgamento para verificação da aprendizagem, a avaliação 
+somativa é realizada no final do período de instrução para fins de 
+classificação, através da atribuição de conceitos ou notas. Nessa forma de 
+avaliação há interdependência entre notas e classificações.
+ 
+A avaliação formativa, segundo Morales (1998), é realizada no decorrer de um 
+programa instrucional visando aperfeiçoá-lo. É concebida como meio para 
+informar e corrigir erros a tempo. Visa fornecer feedback ao aluno e ao 
+professor e busca o atendimento das diferenças individuais e alternativas para 
+problemas identificados. 
+
+A avaliação diagnóstica tem como preocupação o diagnóstico de falhas 
+através de instrumentos diversificados. Caracteriza-se por ocorrer em dois 
+momentos diferentes, antes e durante o processo de instrução. No primeiro 
+momento tem como objetivo verificar habilidades básicas dos alunos a fim de 
+agrupá-los de acordo com características comuns e formar programas 
+alternativos de ensino; no segundo momento está centrada na busca de causas 
+não pedagógicas para os repetidos fracassos de aprendizagem.
+
+Hoffmann (2002) defende práticas avaliativas mediadoras que tenham por base os 
+seguintes princípios gerais: uma concepção de avaliação como um projeto de 
+futuro; o entendimento do valor ou da qualidade da aprendizagem como 
+parâmetros sempre subjetivos e arbitrários, e finalmente, a compreensão de 
+que a aprendizagem se dá na relação de saber consigo mesmo, com os outros e 
+com os objetos do saber.
+
+Para essa autora, o caminho para a avaliação mediadora não pode ser outro 
+senão a busca de significados para todas as dimensões da relação entre 
+educandos e educadores, através de investigação acerca das peculiaridades 
+dos aprendizes e das aprendizagens, numa visão de quem quer conhecer para 
+promover e não para julgar.
+5.3.2	Fundamentos da Avaliação Educacional
+O uso das Tecnologias da Informação e da Comunicação -TICs na educação 
+tem provocado o deslocamento do modelo tradicional de avaliação, para uma 
+concepção de avaliação adequada à aprendizagem colaborativa na educação 
+on-line. Essa concepção pressupõe o rompimento da linearidade de 
+transmissão de conhecimentos, a articulação entre o envolvimento individual 
+e o coletivo, a interação entre várias fontes de informação e entre os 
+vários atores, e a própria imprevisibilidade das metas, visto que na 
+educação on-line, o aluno está no centro do processo educacional.
+
+A cultura tradicional de avaliação marcada pela concepção “bancária”, 
+termo utilizado por Paulo Freire (1987), fundamentada num conceito mecânico e 
+estático de ensino-aprendizagem, inibe a autonomia dos educandos fazendo-os 
+dependentes de uma ação externa, direcionada, e representa uma barreira às 
+práticas avaliativas mediadoras. 
+
+Dialogando e Construindo Conhecimento
+
+
+5.3.3	Avaliação em Ambientes Virtuais Interativos
+
+Alguns autores consideram que a auto-avaliação dos alunos seja tão 
+importante quanto a avaliação do professor no que diz respeito à qualidade 
+da aprendizagem e ao alcance dos objetivos na educação on-line, a exemplo de 
+Peters (2001), que defende a idéia de que mais importante que orientar-se no 
+mundo abstrato de uma universidade virtual, vivenciando-a e se acostumando com 
+a sua natureza, é não depender do juízo dos outros, tomar iniciativas, 
+desenvolver a capacidade de reconhecer diferenças qualitativas, avaliar por si 
+próprio os métodos de estudo e fazer suas escolhas autonomamente, refletindo 
+sobre a própria aprendizagem e contribuindo assim para o surgimento da cultura 
+da comunicação digital.
+
+A sala de aula virtual é vista por Harasim (1997) como um sistema 
+computacional aprimorado para o aprendizado e a comunicação, e apresenta a 
+capacidade de respeitar os diferentes ritmos e estilos de aprendizagem, a 
+heterogeneidade de conhecimentos trazidos pelos alunos e seus valores no 
+contexto cultural, pessoal e profissional em que se inserem. São requisitos a 
+serem considerados na avaliação da educação virtual. 
+
+A avaliação de atividades colaborativas nesse sistema parece estar mais 
+relacionada à implementação dos meios com fins educacionais, do que com as 
+características desse meio. É sempre muito fértil rastrear um grande volume 
+de dados e estar atento para detectar possíveis problema.
+Consulte as no processo de aprendizagem. Ressalta-se que diante de suas 
+características e intencionalidades, parece ser adequado estimular o aluno a 
+fazer suas reflexões sobre o próprio aprendizado, o que pode traduzir a 
+auto-avaliação como princípio da avaliação formativa. 
+
+
+Objetos de Avaliação na Educação On-line
+
+
+Existem vários aspectos a serem tomados como objetos de avaliação na 
+educação on-line. Poderíamos citar, a título de ilustração, os 
+conteúdos, as estratégias, os recursos utilizados, os atores do processo, a 
+mídia, a infra-estrutura tecnológica e as redes de comunicação. 
+
+Destacamos entre os mencionados objetos, o diálogo ou a comunicação 
+dialogada. É um assunto recorrente na literatura em virtude de sua 
+importância em ambientes interativos. 
+
+O termo diálogo a que nos referimos é aqui expresso para descrever uma 
+interação ou séries de interações que possuem qualidades positivas, no 
+sentido apresentado por Moore (1993). Para o autor, ele precisa ser 
+intencional, construtivo e valorizado pelas partes que o estabelecem. Sua 
+natureza e extensão são orientadas pela filosofia educacional do curso, pela 
+personalidade de professores e alunos, pelo tema do curso e por fatores 
+ambientais, entre eles o meio de comunicação adotado.
+
+Ampliando seu Conhecimento
+
+
+
+
+Um enfoque em favor da participação ativa dos alunos nos ambientes virtuais 
+é defendido por estudiosos da temática, a exemplo de Gonçalves (2004) para 
+quem, na educação on-line, o participante precisa estar integrado, dinâmico 
+e compromissado. Os silenciosos, aqueles que não se manifestam, quebram a 
+interação e a dinâmica do grupo. Assim, a passividade dos participantes 
+merece reflexão por parte dos educadores e avaliadores para que, entendendo 
+suas razões, possam conduzir o trabalho educativo na perspectiva da 
+colaboração e do incentivo a posturas questionadoras diante da realidade.
+
+É importante observar o que está predominando pelo lado dos aprendizes: 
+silêncio, respostas ou iniciativas? O silêncio precisa ser considerado: é 
+momento de reflexão? É sinal de desinteresse ou apatia? 
+
+As causas do silêncio virtual precisam ser investigadas pela avaliação, pois 
+em ambientes colaborativos virtuais, a participação é imprescindível. O 
+silêncio virtual não necessariamente impede a aprendizagem, mas barra a 
+colaboração que potencialmente leva à troca de conhecimentos. Diante desse 
+pensar, as razões para o silencio virtual preocupam a avaliação. 
+
+Ampliando seu Conhecimento
+
+
+Ampliando seu Conhecimento
+Para saber mais sobre Silêncio Virtual leia o artigo de GONÇALVES, M. Ilse R. 
+Reflexões sobre "silêncio virtual" no contexto do grupo de discussão na 
+aprendizagem via rede
+      Disponível na Biblioteca Virtual da UFPB.
+Recursos e Ferramentas da Avaliação em Educação On-line
+
+
+Palloff & Pratt (2004) apresentam alguns critérios fundamentais de avaliação 
+dos alunos on-line, na perspectiva de que a mesma não seja tomada como uma 
+tarefa isolada e incômoda, mas que esteja de acordo com o curso como um todo, 
+inserida em seu contexto. 
+
+Propõem que se observem: diretrizes, objetivos, valores, metas e padrões 
+claros; tarefas autênticas e holísticas, que sejam relevantes para a matéria 
+estudada e para a vida dos alunos; uma estrutura facilitadora; acompanhamento 
+formativo suficiente e adequado e a clareza do contexto de aprendizagem de modo 
+que os alunos estejam conscientes do que deles se espera.  
+
+As reflexões sobre avaliação geralmente se fazem em torno dos processos de 
+interação e interatividade, focados na freqüência de participação nos 
+fóruns, nas listas de discussão, nos chats, mural, glossário coletivo, mas 
+também, devem ser consideradas as atividades individualizadas  como perfil de 
+aluno, diário de bordo, blog e e-portfólio. 
+
+Ampliando seu Conhecimento
+
+
+Freqüentemente 
+Rubrics
+
+A idéia de rubric ainda pouco difundida entre nós, teve origem nos Estados 
+Unidos nos anos 70, segundo Lüdke (2003), quando estudiosos da temática 
+preocupados com a exclusividade de instrumentos avaliativos muito centrados na 
+comparação com a norma, propuseram novos instrumentos voltados para o 
+estabelecimento de critérios (criteria referenced measurements) de avaliação 
+da educação em rede. 
+
+O uso de critérios na forma de rubric na avaliação da educação on-line 
+conforme defendido por Palloff & Pratt (2004), tem o mérito de conscientizar 
+os alunos sobre o que deles se espera, e ajuda a alinhar os objetivos de 
+aprendizagem e de avaliação.
+
+Explicações e exemplos de rubrics pode ser encontrado em 
+http://www.escolabr.com/projetos/rubricas/avaliacao_autentica.htm
+
+
+Dialogando e Construindo Conhecimento
+
+Leia mais sobre Avaliação dos Alunos e do Curso em PALLOFF; & PRATT ( 2004). 
+O Aluno Virtual: um guia para trabalhar com estudantes on-line. No Capítulo 8, 
+página 113 você vai encontrar um modelo de uma rubric.
+
+5.3.4  	Instrumentos e Procedimentos de Avaliação dos Alunos e da Disciplina
+
+O desenvolvimento da tecnologia trouxe soluções para os problemas da 
+distância física ao romper barreiras temporais e espaciais, apontando para 
+consolidação de um novo paradigma educacional. São perceptíveis as 
+mudanças nas formas de comunicação humana (síncrona e assíncrona) e a 
+facilidade de acesso a dados e informações trazidas pelas tecnologias da 
+comunicação. Em que consiste esse paradigma educacional?  O que é paradigma? 
+
+ Pesquise o termo paradigma. Consulte a Wikipédia. 
+http://pt.wikipedia.org/wiki/Paradigma
+ Contextualize com as idéias apresentadas nesse item e coloque o termo no 
+glossário.
+
+Nesse paradigma a educação se faz através da comunicação interativa 
+dialogada, focada especialmente no diálogo textual e na interação. Esse 
+paradigma diferencia-se da modalidade tradicional de educação por se realizar 
+através dos meios informáticos e estar marcado por novas relações entre 
+alunos-professores, aluno-aluno, aluno-material instrucional. Diferencia-se 
+ainda pela forma colaborativa de construir conhecimentos, nos quais as 
+questões relativas a tempo, espaço e hierarquia sofreram profundas 
+alterações, produzindo interações de igual para igual entre professor e 
+aluno e o desenvolvimento de um ágil processo de comunicação e intercâmbio 
+entre os sujeitos. 
+
+Evidentemente esse paradigma obriga-nos a repensar novas estruturas e 
+metodologias no design instrucional, novas estratégias de ensino, novas 
+dinâmicas de grupo e evidentemente, novas formas de avaliar a construção do 
+conhecimento. Nessa perspectiva, geralmente os alunos participam da própria 
+avaliação ao realizarem a auto-avaliação, da avaliação dos pares.
+
+Consta do design da disciplina Introdução à Educação a Distância um 
+questionário de avaliação diagnóstica, para traçar o perfil dos alunos a 
+ser aplicado no início do curso. Os resultados deste questionário serão 
+mostrados no relatório de Perfil do Aluno na Biblioteca Virtual da UFPB. 
+www.virtual.ufpb.br
+Como indicado no programa do curso em “Critérios de Avaliação”, a 
+avaliação dos alunos será contínua e formativa e estará voltada para o 
+acompanhamento da construção do conhecimento dos alunos, ao longo do curso, 
+através da monitoração das atividades virtuais, com base nos relatórios 
+emitidos pelo Moodle (atividades no fórum, chat, glossário, wikis, resumos, 
+tarefas, apresentações virtuais, portfólio, etc e de uma avaliação 
+presencial.
+Os procedimentos de avaliação dos alunos consistem em analisar:
+
+* A participação nos fóruns de discussão, com observação no foco das 
+discussões e na capacidade de envolvimento e colaboração (tarefa 
+assíncrona);
+* A participação nos chats observando o envolvimento e a interação social 
+(tarefa síncrona, em tempo real);
+* A capacidade de articulação (na forma textual) do instrumental teórico, 
+objeto de discussão da disciplina, em conformidade com a bibliografia básica 
+adotada. Trabalhos escritos na forma de relatório, síntese, resenha, e 
+tarefas on line e off line a serem enviados através do Moodle;
+* A participação na Sala de aula virtual Moodle, com monitoramento da 
+participação (acesso aos materiais de estudo) através dos relatórios 
+detalhados emitidos pelo Moodle;
+* Uma Prova Presencial de Disciplina (presencial). E um Exame Final
+
+5.4 - Avaliando o que foi construído
+
+A literatura sobre avaliação nos traz reflexões sobre os desafios colocados 
+pelo uso das TIC’s na transformação do paradigma de avaliação 
+tradicional. As novas propostas de investigação levam em conta o ambiente em 
+que as ocorrências se manifestam e a multiplicidade de interpretações dos 
+fenômenos a serem avaliados nos seus respectivos contextos.
+Essas tecnologias possibilitam liberar a inteligência humana das tarefas 
+rotineiras permitindo aos indivíduos concentrarem-se no essencial de sua 
+tarefa. Desse modo, resta aos estudantes mais tempo para reflexão, criação, 
+inovação, colaboração e aprendizagem autônoma. Nesse sentido, percebemos 
+que a avaliação da construção de conhecimentos mediada por recursos da 
+Internet, encontra maior identificação com a proposta sócio-construtivista 
+interacionista, ao reclamar dos aprendizes habilidades de dominar as 
+estratégias de acesso, capacidade de assimilação, seleção e análise de 
+dados e informações e sua conversão em conhecimentos, num processo contínuo 
+de interação humana e cooperação. 
+
+Nesse cenário, a avaliação precisa estar atenta a essa nova modalidade de 
+ensino-aprendizagem e buscar estratégias adequadas. Nela, a construção do 
+conhecimento desloca-se da unidade de análise do indivíduo para a relação 
+do indivíduo com o ambiente e a interação com os demais membros, e o aluno 
+porta-se como agente ativo na estrutura de tomada de decisões sobre o que 
+estudar e como estudar, de acordo com seu estilo de aprendizagem. 
+
+Diante desse quadro é relevante avaliar as dimensões cognitivas e sociais da 
+aprendizagem, perspectiva na qual a avaliação acaba por conferir coerência 
+entre as percepções dos alunos e os objetivos da proposta educacional 
+sensível ao contexto específico. Faz-se necessário por em prática a 
+avaliação continuada como subsídio ao aperfeiçoamento da proposta 
+pedagógica. Nesse sentido, cabe ao professor e sua equipe interpretar os 
+dados, decifrando-os na perspectiva da avaliação como prática permanente de 
+investigação, em coerência com os fundamentos da aprendizagem colaborativa, 
+sem se deixar envolver pelas crenças e valores tradicionais arraigados na 
+cultura de avaliação, carregados pela lógica da competitividade e da 
+eficiência e refletidos nos processos de punir ou premiar.
+
+
+Unidade 6		Histórico da Educação a Distância
+6.1 - Situando a Temática
+Nesta unidade traçaremos um panorama do surgimento e evolução da EAD. 
+Trataremos também da conseqüente regulamentação dessa modalidade de ensino 
+no Brasil. Na tentativa de facilitar a compreensão, apresentaremos o tema de 
+estudo em dois momentos: no primeiro, discutiremos as origens históricas da 
+EAD, apresentando suas gerações com destaque para a evolução recente da EAD 
+nas instituições de ensino superior brasileiras. Num segundo momento, 
+trataremos da regulamentação e autorização da EAD através de Leis, 
+Decretos e Portarias do Ministério da Educação. 
+6.2 - Problematizando a Temática 
+Segundo Oreste Preti (1996) a Educação a Distância “não é algo 
+totalmente novo em nosso país, pois vivenciamos experiências em EAD desde a 
+década de 1960. Lembra do Projeto Minerva, do Logos I e Logos II e, 
+recentemente, Telecurso 2000, Salto para o Futuro, TV Escola e ProFormação? 
+Algumas foram avaliadas positivamente, outras criticadas; umas desenvolvidas em 
+todo território nacional, enquanto umas poucas só regionalmente. ”
+Destacada na mídia como uma novidade e explorada pelos ideólogos como uma 
+modalidade moderna e eficiente de ensino-aprendizagem, as questões que 
+envolvem o ensinar e o aprender a distância tem causado ao mesmo tempo 
+perplexidade e desconfiança. Às vezes nos perguntam: Será que funciona?  Já 
+existiu ou foi testado em outros países? Como são as aulas? E as 
+avaliações? Será que as pessoas são capazes de aprender sem a presença 
+física do professor? Frequentemente a falta de informações sobre a história 
+e evolução da EAD no mundo tem levado as pessoas a esses questionamentos e a 
+estigmatizar a EAD, associando-a a experiências de pouco êxito e muito 
+isolamento. Nesta unidade buscaremos discutir essas questões com base em dados 
+e informações.
+
+Veremos que as suas origens são mais antigas do que nós pensamos e que sua 
+história tem sido marcada por forte intervenção humana, ancorada, é claro, 
+nos avanços tecnológicos de cada período histórico. Veremos que as 
+tecnologias desempenham uma função importante em EAD, mas que é a ação 
+humana que conduz seu movimento. 
+
+Desde o seu surgimento, as diferentes tecnologias incorporadas ao ensino 
+contribuíram para definir os suportes fundamentais das propostas educativas. A 
+importância da tecnologia tem sido tão destacada, que algumas vezes 
+questiona-se o papel do professor. Será que ele vai ser substituído pelas 
+mídias eletrônicas? Qual a sua nova função nesse contexto? Será que ele 
+será capaz de portar-se autonomamente? Como as novas tecnologias podem 
+viabilizar uma educação focada no aluno, em que ele e não o professor seja o 
+“centro das atenções”? Essas são questões recorrentes que merecem nossa 
+atenção e que serão objeto de discussão nessa unidade.
+
+6.3 - Conhecendo a Temática
+
+Atualmente os sistemas de educação a distância constituem cada vez mais uma 
+possibilidade real para quem, por diferentes razões, deseja concluir ou 
+continuar um processo de formação educacional ou profissional. Dentre as 
+possibilidades existentes, e como parte da educação aberta e a distância, a 
+educação virtual ou on-line (modalidade educativa realizada via Internet, 
+especificamente pela Web) tem demonstrado ser uma alternativa para elevar os 
+níveis de formação, capacitação e atualização, ao incorporar diversas 
+estratégias pedagógicas orientadas por processos de aprendizagem autodirigida.
+
+Apreende-se, a partir da literatura sobre educação mediada pela tecnologia, 
+que educar a distância é um processo bastante complexo. Sua implementação 
+exige a escolha cuidadosa dos meios tecnológicos, a observância do acesso dos 
+aprendizes às tecnologias escolhidas, a definição de métodos pedagógicos 
+que viabilizem a interação e a interatividade necessárias ao processo de 
+ensino-aprendizagem considerando a autonomia do aprendiz e, sobretudo, a 
+escolha de conteúdos que permitam problematizar o saber, contextualizando 
+conhecimentos, de modo que possam ser apropriados pelos aprendizes e que tenham 
+funções informativas e formativas para o trabalho e para a vida. 
+
+Conhecer a história da EAD e o atual contexto de seu desenvolvimento constitui 
+passo fundamental para participar ativa e criticamente do sistema, seja como 
+aluno ou docente. 
+
+6.3.1		Contexto Histórico
+
+Somente em 1994, com a expansão da Internet nas Instituições de Ensino 
+Superior (IES) e com a publicação da Lei de Diretrizes e Bases da Educação 
+(LDB)-Lei 9.394/96 de dezembro de 1996, a EAD foi oficializada. No entanto, o 
+Brasil tem história na EAD. O país presenciou o surgimento de cursos à 
+distância no início do século 20 (a primeira instância foi documentada 
+exatamente há 100 anos, em 1904). O rádio educativo surgiu em 1923 e nas 
+Décadas de 1960 e 1970, surgem experiências com a televisão educativa (TVE) 
+com cursos supletivos e formação. Entre meados dos anos 80' e meados de 90' 
+tem início o uso de ferramentas de aprendizagem on line e surgem os primeiros 
+cursos apoiados pela Internet e por videoconferência.
+
+Em 1997 começam a ser produzidos pelas universidades brasileiras os primeiros 
+Ambientes Virtuais de Aprendizagem. O Brasil não perdeu tempo nesta área e 
+já em 1995 e 1996 produzia soluções próprias com os sistemas da 
+Universidade Anhembi Morumbi em São Paulo, Universidade Federal de Pernambuco, 
+Universidade Federal de Santa Catarina, Faculdade Carioca no Rio de Janeiro e 
+Universidade Federal de São Paulo (Escola Paulista de Medicina). Estas 
+universidades, além da UnB e da PUC, são responsáveis pela chegada e 
+implantação no Brasil dos recursos da 3ª Geração de Educação a 
+Distância.
+
+É nesse contexto, que a modalidade a distância começa a ganhar importância. 
+Se antes era associada a cursos de baixa qualidade, uma educação 
+marginalizada e sem reconhecimento como modalidade educativa com 
+características próprias, agora se apresenta como possibilidade concreta de 
+viabilizar o acesso a educação de qualidade, com interação humana e 
+interatividade e sem limitação de tempo e de espaço físico.
+
+Pensar nos desafios que a educação virtual enfrenta nesse novo contexto é o 
+propósito dessa unidade de estudo.
+
+   6.3.2	Surgimento e Evolução da EAD
+O final do século XIX marcou o surgimento da EAD, mesmo que de forma 
+embrionária, quando instituições particulares nos Estados Unidos e na Europa 
+ofereciam cursos por correspondência destinados ao ensino de temas vinculados 
+a ofícios, com pequeno valor acadêmico. Provavelmente, segundo Litwin (2001), 
+essa origem tenha fixado uma apreciação negativa de muitas de suas propostas. 
+Somente nas últimas décadas a EAD assumiu um status que a coloca no centro 
+das atenções pedagógicas de um número cada vez maior de países. Vejamos 
+algumas universidades que inovaram ao implantar essa modalidade de educação 
+ainda quando se achava duvidoso o seu potencial educativo: 
+
+* A Universidade de Wisconsin, criada exclusivamente para essa modalidade de 
+ensino, marca um ponto importante no desenvolvimento de EAD na educação 
+norte-americana. Em 1981, a administração da universidade aceita proposta de 
+seus professores para organizar cursos por correspondência nos serviços de 
+extensão universitária. Para conhecer sua atual estrutura visite 
+http://www.wisc.edu/ 
+* A Universidade Aberta no Reino Unido, mais conhecida como Open University, 
+mostrou ao mundo uma proposta com um desenho complexo, o qual conseguiu, 
+utilizando meios impressos, televisão e cursos intensivos em períodos de 
+recessos de cursos presenciais em outras universidades convencionais, produzir 
+cursos acadêmicos de qualidade. Esta universidade transformou-se em modelo de 
+ensino a distância e os egressos dessa modalidade competiam pelos postos de 
+trabalho com os graduados de universidades presenciais. Visite  
+http://www3.open.ac.uk
+* A FernUniversität, criada na Alemanha em 1974 com o objetivo principal de 
+aliviar a pressão da demanda por vagas nas tradicionais universidades 
+presenciais alemãs. Na FernUniversität o ensino é articulado sobretudo na 
+forma de cursos a distância, de baixa estruturação, elaborados com ampla 
+liberdade pelos professores dos cursos, sob a forma de textos didáticos, 
+glossários, questões para auto-teste e trabalho autônomo (Peters,2001).  
+Peters foi o fundador e primeiro reitor da FernUniversität .Visite 
+http://www.fernuni-hagen.de/  
+* Universidade Nacional de Educação a Distância (UNED) na Espanha, 
+estruturada nos anos 70, utilizava materiais impressos entregues via correios 
+como meio principal. No final do século XX migrou para integração com a 
+Internet. Estas propostas atraíram um grande número de estudantes em todo 
+mundo, tanto de carreiras de graduação como de pós-graduação. Visite 
+http://www.uned.es/portal/
+No século XIX e até o primeiro terço do século XX, a principal solução 
+para a educação a distância estava ancorada na produção de materiais 
+impressos com distribuição via Correios, que era conhecida como “ensino por 
+correspondência”.
+
+No segundo terço do século XX, as instituições passam a utilizar os 
+recursos do rádio e da televisão para a difusão de programas educacionais, 
+agregando como suporte e apoio os materiais impressos encaminhados via 
+Correios. O rádio alcançou muito sucesso em experiências nacionais e 
+internacionais, tendo sido bastante explorado na América Latina nos programas 
+de educação a distância do Brasil, Colômbia, México, Venezuela, entre 
+outros.
+
+Nas décadas de 60 e 70, a educação a distância, embora mantendo os 
+materiais escritos como base, passa a incorporar articulada e integradamente o 
+áudio, o videocassete, as transmissões de rádio e televisão, e o 
+videotexto. Mais recentemente foi incorporada a tecnologia de multimeios que 
+combina texto, som, imagem, assim como mecanismos de geração de caminhos 
+alternativos de aprendizagem  e instrumentos para fixação de aprendizagem com 
+feedback imediato (programas tutoriais informatizados).
+
+Ao final do século XX, surgiram as transmissões de televisão por satélite 
+propiciando alcance continental a programas educacionais, cursos distribuídos 
+por meio de fitas de áudio e de vídeo, programas de aprendizagem assistida 
+por computador, os CD-ROMs, as redes de informação para troca de dados. No 
+último terço do século surgiram no ensino superior instituições dedicadas 
+exclusivamente à educação a distância com perfis próprios em metodologia e 
+uso de tecnologias.
+
+Se você ficou curioso em descobrir como funciona a EAD nas grandes 
+universidades mundiais leia “Modelos de Ensino e Aprendizagem de 
+Instituições Específicas” (Peters, 2001, capitulo 7). Nesse capítulo o 
+autor apresenta uma descrição e os modelos didáticos das seguintes 
+Instituições: University of South Africa; Open University inglesa; 
+FernUniversität alemã; University of China; University of the Air do Japão; 
+o Empire State College americano; a National University Teleconference Network 
+americana; e o projeto Contact North do Canadá.
+	Gerações de EAD
+Atualmente, a Educação a Distância pode escolher dentre uma vasta gama de 
+tecnologias. Basicamente, o desenvolvimento tecnológico da educação passou 
+por quatro fases. Apresentaremos o quadro abaixo, identificando cada fase ou 
+geração com o período e com as tecnologias adotadas:
+   GeraçãoPeríodoCaracterísticas
+1ª 
+1840 - 1950Cursos por correspondência
+Os instrutores passaram a produzir textos, guias de estudo com tarefas e 
+exercícios e outros materiais impressos que eram enviados pelo correio aos 
+estudantes. A comunicação se fazia através da interação entre o estudante 
+e a instituição e os alunos podiam estudar em casa.
+2ª 
+1950 - 1960Universidades Abertas
+Surgem as primeiras Universidades Abertas com novos veículos de disseminação 
+de conteúdos como o rádio, televisão, fax, com interação por telefone, 
+além do material impresso. Leituras ao vivo em sala de aula eram capturadas e 
+transmitidas a outros grupos de alunos, que poderiam seguir a lição de uma 
+sala de aula distante por meio da televisão ou do rádio. A interação 
+continuava apenas entre o estudante e a instituição.
+3ª
+1960 – 1995Multimídia
+Nesta geração temos os recursos da primeira e da segunda fases juntos, em uma 
+abordagem multimídia, com base em textos, áudio e televisão. Mas estes meios 
+eram suplementares ao material impresso. A computação como meio de acessar 
+bancos de dados foi sendo incorporada aos processos de ensino à medida que se 
+desenvolvia.
+
+4ª 
+A partir de 1995 Múltiplas Tecnologias
+Múltiplas tecnologias incluindo os computadores e as redes de comunicação. 
+Houve a integração das telecomunicações com outros meios educativos, 
+mediante a informática (correio eletrônico, CDs, Internet, audioconferência, 
+videoconferência, redes de computadores, telefone, fax, papel impresso etc). 
+As redes de comunicação além de prover o acesso a uma gama de informações 
+nunca antes existente possibilitaram a comunicação interativa em dois 
+sentidos, síncrona e assíncrona, entre a instituição e os estudantes, entre 
+os estudantes e os professores ou tutores e entre os próprios estudantes, 
+provocando mudanças consideráveis nos processos educacionais. Também 
+destacamos nesta fase a idéia de ensino virtual.
+	Em adição às quatro gerações anteriormente descritas Aretio (2001) 
+apresenta uma 5ª Geração, essencialmente derivada da 4ª geração. 
+
+A 5ª geração diferentemente das gerações anteriores, especialmente da 1ª 
+e da 2ª em que os custos variáveis apresentam crescimento proporcional ao 
+número de alunos matriculados, traz consigo o potencial de diminuição 
+significativa dos custos relacionados à economia de escala e custos de 
+efetividade, quando comparados aos da EAD tradicional ou ao sistema 
+convencional de educação face a face.
+	
+Do ponto de vista pedagógico, a 5ª geração de EAD possibilita experiências 
+personalizadas com efetivos serviços pedagógicos e administrativos de apoio 
+ao estudante e uma melhor qualidade da tutoria, com custos per-capita 
+significativamente menores. 
+
+Dialogando e Construindo Conhecimento
+	   
+
+
+
+Ampliando seu conhecimento
+	
+
+
+
+
+
+
+
+6.3.4	A Inserção da EAD no Brasil
+Vejamos alguns períodos importantes da inserção da EAD no Brasil:
+
+* No fim da década de 30 e na década de 40, algumas instituições como o 
+Instituto Universal Brasileiro e o Instituto Monitor ofereciam cursos por 
+correspondência. Em seguida surgiu a Universidade do Ar, que funcionava pelo 
+rádio, promovida pelo SENAC. Visite o site atual do Instituto Monitor 
+http://www.institutomonitor.com.br/ . Observe sua proposta de trabalho e os 
+meios utilizados atualmente.
+* Nas décadas de 50 e 60, houve a explosão de cursos por correspondência 
+visando a alfabetização de adultos, com a participação da Igreja Católica.
+* Nas décadas de 70 e 80, foram oferecidos vários cursos na TV Globo e pela 
+Universidade de Brasília utilizando metodologia educacional que integra 
+conteúdos do ensino fundamental e do ensino médio com uso de multimeios. A 
+iniciativa oferece uma nova oportunidade de concluir os estudos básicos.
+* Em 1995 foi criado pela Fundação Roberto Marinho e pela Fiesp, o 
+aperfeiçoamento de dois cursos anteriores: o Telecurso 1º Grau e o 2º Grau. 
+Nesses cursos, o material didático é composto de livros e vídeos e permite 
+que se faça o curso em casa assistindo às aulas através das emissoras de TV 
+que transmitem o Telecurso ou em uma das várias telessalas existentes no 
+Brasil. Nestas, os alunos têm à disposição um aparelho de vídeo e um 
+orientador além de material didático de apoio. Visite  http://www.frm.org.br/
+* Em 1995 houve a disseminação da Internet nas Instituições de Ensino 
+Superior, via Rede Nacional de Pesquisa - RNP.
+* Em 1999-2002 foi feito o credenciamento oficial de Instituições 
+Universitárias para atuar em EAD.
+* Em 2000 foi criada a Universidade Virtual Pública do Brasil, UniRede 
+consórcio de 70 instituições públicas de ensino superior que tem por 
+objetivo democratizar o acesso à educação de qualidade por meio da oferta de 
+cursos a distância.  Visite http://www.unirede.br
+* Em 2006 aconteceu o lançamento da Universidade Aberta do Brasil Visite 
+www.uab.capes.gov.br
+
+É possível identificar uma profusão de projetos de EAD baseados em 
+tecnologias da Internet que têm marcado o cenário da educação brasileira 
+desde os anos 90. As iniciativas têm surgido como resposta imediata à 
+necessidade de treinamento empresarial e-learning e no mundo acadêmico 
+principalmente nas instituições públicas brasileiras, em projetos de 
+formação de professores no atendimento aos determinantes do art. 80 da Lei de 
+Diretrizes e Bases da Educação Nacional (LDB), que trata da inserção da EAD 
+no sistema educacional. 
+
+
+Dialogando e Construindo Conhecimento
+
+Legislação Específica
+Do ponto de vista legal, a EAD foi oficialmente reconhecida como modalidade no 
+Brasil em 1996, na consolidação da última reforma educacional brasileira, 
+instaurada pela Lei de nº 9.394/96. Com a promulgação desta Lei, que fixa as 
+Diretrizes e Bases da Educação Nacional, a EAD passou a ser uma alternativa 
+regular e, regulamentada, deixou de pertencer ao elenco de projetos sempre 
+designados como “experimentais”. Conjuntamente a essa Lei, existem Decretos 
+e Portarias com instruções acerca da aplicação da Lei, recomendações de 
+caráter geral, norma de execução e outras determinações. 
+Em 08 de junho de 2006, através do Decreto nº 5.800 foi instituído o Sistema 
+Universidade Aberta do Brasil - UAB, voltado para o desenvolvimento da 
+modalidade de educação a distância, com a finalidade de expandir e 
+interiorizar a oferta de cursos e programas de educação superior no País.
+
+6.3.5		Regulamentação da EAD no Brasil
+
+Conheça a Legislação Brasileira sobre EAD. Visite 
+http://www.uab.capes.gov.br. Pesquise no link Legislação
+Educação a Distância é institucionalizada através do Decreto 5.622 que 
+regulamenta o art. 80 da Lei nº 9.394, caracterizando-a como modalidade 
+educacional na qual a mediação didático–pedagógica nos processos de 
+ensino e aprendizagem ocorre com a utilização de meios e tecnologias de 
+informação e comunicação, com estudantes e professores desenvolvendo 
+atividades educativas em lugares ou tempos diversos. 
+Os Cursos oferecidos pela UFPB VIRTUAL são autorizados pelo MEC pela Portaria 
+nº 873 de 7 de abril de 2006, com base no Art. 1o. da Lei n. 9.394, que 
+autoriza a oferta de cursos superiores a distância nas Instituições Federais 
+de Ensino Superior, no âmbito dos programas de indução da oferta pública de 
+cursos superiores a distância fomentados pelo MEC.  Para maiores informações 
+sobre o credenciamento de instituições e a autorização de cursos, visite a 
+página da UAB: http://www.uab.capes.gov.br/  e veja o link Credenciamento de 
+IES.
+Com esta Lei a EAD ganha, de forma explícita e inquestionável, o status de 
+modalidade plenamente integrada ao sistema de ensino. É um processo que ainda 
+não foi completado, mas os dispositivos já emanados oferecem os rumos legais 
+para as instituições que querem atuar em EAD.
+Ampliando seu conhecimento
+
+
+A Concepção Legal da Educação a Distância no Brasil
+
+
+“Educação a Distância (EAD) é a modalidade educacional na qual a 
+mediação didático-pedagógica nos processos de ensino e aprendizagem ocorre 
+com a utilização de meios e tecnologias de informação e comunicação, 
+envolvendo estudantes e professores no desenvolvimento de atividades educativas 
+em lugares ou tempos diversos. Essa definição está presente no Decreto 
+5.622, de 19.12.2005 (que revoga o Decreto 2.494/98), que regulamenta o Art. 80 
+da Lei 9394/96 (LDB)” . Site da UAB ( 2008)
+
+Avaliação do Aluno na EAD: Determinações Legais
+
+
+A dimensão pedagógica da avaliação determinada pela Lei 9.394/96-LDB tem 
+por princípio uma avaliação processual, contínua, onde os resultados devem 
+ser cumulativos ao longo do período e com prevalência dos aspectos 
+qualitativos sobre os quantitativos.
+
+Esses princípios aplicam-se à Educação a Distância que na sua dimensão 
+legal exige a realização de exames ou provas presenciais, no processo ou 
+finais, em caráter obrigatório. Para atender a esse dispositivo a mesma Lei, 
+em seu Artigo 47, determina que as Instituições de Ensino Superior informem 
+aos interessados os critérios de avaliação a serem adotados, antes de cada 
+período letivo.
+
+“Os cursos a distância oferecidos pelo programa UAB conferem diplomas e 
+certificados, da mesma forma que acontece em cursos presenciais e possuem a 
+mesma validade acadêmica e profissional.” Site da UAB (2008)
+
+Dialogando e Construindo Conhecimento
+
+
+
+
+
+
+
+Números recentes da EAD no Brasil 
+
+Em 2006, o Brasil teve 2,279 milhões de alunos a distância matriculados em 
+vários tipos de cursos credenciados, fazendo educação corporativa e em 
+outros projetos educacionais, nacionais e regionais de acordo com o Anuário 
+Brasileiro Estatístico de Educação Aberta e a Distância (Abraead/2007), 
+publicação da Associação Brasileira de Educação a Distância – ABED e 
+do Instituto Monitor, com o apoio da Secretaria de Educação a Distância do 
+MEC (Seed/MEC). 
+
+Isso significa que um em cada oitenta brasileiros estudou por EAD no ano de 
+2006. O número de alunos no ensino credenciado a distância cresceu 54% em 
+2006, e já chegou a 778 mil pessoas. Se forem contados apenas os alunos de 
+graduação e pós-graduação, o aumento foi de 91% em 2006.
+
+A Região Sudeste deixou de ser a região com maior número de alunos a 
+distância no Brasil. Atualmente, ela tem 31% do total. A região Sul do país 
+é agora a que tem maior número de alunos (33%). As regiões Sul e 
+Centro-Oeste são as que mais crescem em número de alunos de EAD. Há em todo 
+o Brasil 889 cursos a distância (credenciados pelo Sistema de Ensino – MEC e 
+conselhos estaduais de educação), sem contar os livres.
+
+O maior grupo isolado é o de pós-graduação lato-sensu (246 cursos); os de 
+graduação são 205. A mídia mais utilizada em cursos a distância no país 
+é o material impresso (86% das instituições a utilizam). A segunda mídia 
+mais utilizada é o e-learning (56%) Os dados indicam que os paradigmas 
+presenciais resistem na EAD, de modo que a maioria das instituições ainda 
+utiliza o professor presencial (72%) e a reunião presencial (58%). Fonte: ABED 
+ www.abed.org.br
+
+Em 2004 havia 166 instituições autorizadas a ministrar cursos de EAD ou com 
+cursos credenciados no Brasil. Em 2006, este número chegou a 225, com 
+crescimento de 36%. O número de alunos, que em 2004 era de 309.957 passou para 
+778.458, um crescimento de 150%. 
+
+6.4 - Avaliando o que foi construído
+Esperamos que esta unidade tenha possibilitado reflexões sobre a história da 
+EAD e sobre sua configuração como uma modalidade de educação em contínuo 
+desenvolvimento. Neste contexto somos levados a refletir principalmente sobre 
+que tipo de desafios a EAD no Brasil necessita superar: desafios tecnológicos, 
+infra-estrutura básica ou professores e alunos dispostos a enfrentar a 
+mudança de paradigma? 
+Em nível mundial o panorama observado desde o ano de 1995 se revela bastante 
+promissor e o Brasil não ficou excluído, embora ainda esteja distante 
+historicamente de países da Europa como a Espanha, Alemanha e Inglaterra e da 
+América do Norte como os Estados Unidos e Canadá que têm uma longa 
+tradição em EAD.
+Hoje no Brasil, a EAD situa-se como uma modalidade de ensino que, nas suas 
+bases legais, volta-se preferencialmente para uma parcela da população que 
+por inúmeros motivos não tem acesso ao ambiente escolar tradicional. 
+Representa a possibilidade de democratizar o acesso à educação pública e 
+gratuita.
+Como você avalia essa possibilidade? Como percebe a posição do Brasil nesse 
+cenário? Acompanhar e capitalizar a tendência mundial da educação virtual 
+é um grande desafio, especialmente para aqueles que enfrentam problemas de 
+atraso econômico tecnológico, que paradoxalmente, são os que de fato mais 
+precisam desenvolver essa modalidade de educação.
+
+
+
+
+
+
+
+
+
+
+Referências
+Bibliografia Básica
+
+LITWIN, Edith.(org.) Educação a Distância: temas para o debate de uma nova 
+agenda educativa. Porto Alegre: Artmed. 2001.110 p.
+
+PALLOFF, R; & PRATT, K. O Aluno Virtual: um guia para trabalhar com estudantes 
+on-line. Tradução: Vinícius Figueira. Porto Alegre: Artmed, 2004, 216 p. 
+
+PALLOFF, R & PRATT, K. Construindo Comunidades de Aprendizagem no Ciberespaço: 
+estratégias eficientes para a sala de aula on-line. Tradução: Vinícius 
+Figueira. Porto Alegre: Artmed, 2002, 247p. 
+
+PETERS, Otto. Didática do Ensino a Distância: experiência e estágio da 
+discussão numa visão internacional. Tradução: Ilson Kayser. S.Leopoldo: 
+Editora UNISINOS. 2001. 401 p.
+PETERS, Otto. Educação a Distância em Transição. Tradução: Leila 
+Ferreira de Souza Martins. S.Leopoldo: Editora UNISINOS. 2004. 400 p.
+
+PRETI, Oreste(Org.) Educação a Distância: construindo significados. 
+Brasília: Ed.Plano. 2000. 268 p.
+
+Outras Referências utilizadas na Elaboração deste Fascículo
+ARETIO, L. Garcia. La Educación a Distancia: de la teoria a la prática. 
+Barcelona: 2001, 328 p.
+
+FREIRE, Paulo. Pedagogia do Oprimido. 17ª. Ed. Rio de Janeiro: Paz e Terra, 
+1987, 165 p.
+
+HARASIM, Linda M. & WALLS, Jan. The Global Authoring Network. In: Global 
+Networks: computers and International communication. Edited  by HARASIM, Linda 
+M.  MIT Press. Cambridge, Massachusetts, London, England: 1993 p. 343 a 355.
+
+HARASIM, Linda M. et al. Learning Networks: a feild guide to teaching and 
+learning online. Third printing. MIT Press. Cambridge, Massachusetts, London, 
+England: 1997.
+
+HOFFMANN, Jussara. Avaliar para Promover: as setas do caminho. Porto Alegre: 
+2ª. Ed. Mediação, 2002, 217 p.
+
+LÉVY. P. O Que é Virtual ?  34ª Ed. Tradução de Paulo Neves. São Paulo: 
+Editora 34, 2001.
+LÜDKE. Menga. O Trabalho com Projetos e a Avaliação na Educação Básica. 
+In: ESTEBAN, M. Tereza; SILVA, J. Felipe; HOFFMANN, Jussara (org). 
+Aprendizagens significativas: em diferentes áreas do currículo. Porto Alegre: 
+Mediação: 2003.
+
+MORAN, J. M. Perspectivas (virtuais) para a educação. In: Mundo Virtual. 
+Cadernos Adenauer IV, nº 6. Rio de Janeiro, Fundação Konrad Adenauer, abril, 
+2004, páginas 31-45. Disponível em: 
+http://www.eca.usp.br/prof/moran/futuro.htm
+
+MOORE, Michael G. Teoria da Distância Transacional. In: KEEGAN, D. Theoretical 
+Principles of Distance Education. Traduzido por Wilson Azevedo com 
+autorização do autor. London: Routledge, 1993, p.22-38 
+
+MORALES, Pedro. Avaliação Escolar: o que é, como se faz. São Paulo: 
+Edições Loyola, 1998.
+
+MOREIRA, M.O. Processo de Avaliação em Cursos a Distância. In. EaD: uma 
+articulação entre teoria e prática. Giusta, A.S e  Franco, I. M. (org) 
+Ed.PUC-Minas Virtual,2003
+
+NETO, Francisco José da Silveira Lobo, Regulamentação da educação a 
+distância: caminhos e descaminhos, In Silva, Marco.(Org.) Educação online. 
+São Paulo:Edições Loyola, 2003.
+
+TARJA, Sanmya F. Comunidades Virtuais: um fenômeno da sociedade do 
+conhecimento. São Paulo: Érica, 2002. 102 p.
+
+TAROUCO, Liane. O Processo de Avaliação na Educação a Distância. Publicado 
+em http://www.pgie.ufrgs.br/webfolioEaD/biblioteca/artigo6/artigo6.html. 
+Consultado em: 07/10/2002.
+
+VAN DER LINDEN, Marta Maria Gomes. Diálogo didático mediado on-line: 
+subsídios para sua avaliação em situações de ensino-aprendizagem. Tese de 
+Doutorado. Universidade Federal de Santa Catarina. Florianópolis, 2005.261 p.
+
+VAN DER LINDEN, Marta M. G; ANDRE. Cláudio F; PICONEZ, Stela C. B. Avaliação 
+do Processo Comunicacional Interativo na Aprendizagem Apoiada por Recursos da 
+Internet. XI Congresso Internacional da ABED, Salvador: 2004
+
+VIGOTSKY, L.S. A Formação Social da Mente: desenvolvimento dos processos 
+psicológicos superiores. 6ª. Ed. São Paulo: Martins Fontes, 1998.
+
+
+
+
+
+   
+
+

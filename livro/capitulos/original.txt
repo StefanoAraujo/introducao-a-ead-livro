@@ -860,6 +860,8 @@ significados, esperamos que ao final desta unidade em que abordamos as idéias
 básicas e os fundamentos da Educação a Distância, você esteja motivado 
 para continuar pesquisando e construindo significados acerca do tema 
 introduzido. 
+
+
 Unidade 2	Apresentação e Ambientação da sala de aula virtual Moodle
 
 2.1 - Situando a Temática
@@ -1196,6 +1198,7 @@ Esperamos ainda que possa ter desenvolvido habilidades de trabalho colaborativo
 e que tenha refletido sobre os temas abordados. 
 
 Unidade 3 		O Aluno Virtual
+
 3.1 - Situando a Temática
 A Educação a Distância apoiada nas tecnologias da comunicação e nas novas 
 metodologias de ensino tem implicado em modificações nas funções 
@@ -1468,7 +1471,17 @@ impossibilidade de atribuir ao que se escreve: um tom de voz, uma expressão
 facial ou linguagem corporal. Vejamos a seguir alguns exemplos apresentados 
 pelos autores:
 
-: )  ou  :-)Expressa alegria, sarcasmo ou piada: (Expressa tristeza: IExpressa indiferença: QExpressa confusão: OExpressa surpresa ou grito
+: )  ou  :-)
+Expressa alegria, sarcasmo ou piada
+: (
+Expressa tristeza
+: I
+Expressa indiferença
+: Q
+Expressa confusão
+: O
+Expressa surpresa ou grito
+
 Clareza
 
 A clareza é uma qualidade de quem escreve bem e quer se fazer entender. A 
@@ -2616,31 +2629,45 @@ Atualmente, a Educação a Distância pode escolher dentre uma vasta gama de
 tecnologias. Basicamente, o desenvolvimento tecnológico da educação passou 
 por quatro fases. Apresentaremos o quadro abaixo, identificando cada fase ou 
 geração com o período e com as tecnologias adotadas:
-   GeraçãoPeríodoCaracterísticas
-1ª 
-1840 - 1950Cursos por correspondência
+   Geração
+Período
+Características
+
+1ª 
+
+1840 - 1950
+Cursos por correspondência
 Os instrutores passaram a produzir textos, guias de estudo com tarefas e 
 exercícios e outros materiais impressos que eram enviados pelo correio aos 
 estudantes. A comunicação se fazia através da interação entre o estudante 
-e a instituição e os alunos podiam estudar em casa.
-2ª 
-1950 - 1960Universidades Abertas
+e a instituição e os alunos podiam estudar em casa.
+
+2ª 
+
+1950 - 1960
+Universidades Abertas
 Surgem as primeiras Universidades Abertas com novos veículos de disseminação 
 de conteúdos como o rádio, televisão, fax, com interação por telefone, 
 além do material impresso. Leituras ao vivo em sala de aula eram capturadas e 
 transmitidas a outros grupos de alunos, que poderiam seguir a lição de uma 
 sala de aula distante por meio da televisão ou do rádio. A interação 
-continuava apenas entre o estudante e a instituição.
-3ª
-1960 – 1995Multimídia
+continuava apenas entre o estudante e a instituição.
+
+3ª
+
+1960 – 1995
+Multimídia
 Nesta geração temos os recursos da primeira e da segunda fases juntos, em uma 
 abordagem multimídia, com base em textos, áudio e televisão. Mas estes meios 
 eram suplementares ao material impresso. A computação como meio de acessar 
 bancos de dados foi sendo incorporada aos processos de ensino à medida que se 
 desenvolvia.
-
-4ª 
-A partir de 1995 Múltiplas Tecnologias
+
+
+4ª 
+
+A partir de 1995 
+Múltiplas Tecnologias
 Múltiplas tecnologias incluindo os computadores e as redes de comunicação. 
 Houve a integração das telecomunicações com outros meios educativos, 
 mediante a informática (correio eletrônico, CDs, Internet, audioconferência, 
@@ -2651,7 +2678,8 @@ sentidos, síncrona e assíncrona, entre a instituição e os estudantes, entre
 os estudantes e os professores ou tutores e entre os próprios estudantes, 
 provocando mudanças consideráveis nos processos educacionais. Também 
 destacamos nesta fase a idéia de ensino virtual.
-	Em adição às quatro gerações anteriormente descritas Aretio (2001) 
+	
+Em adição às quatro gerações anteriormente descritas Aretio (2001) 
 apresenta uma 5ª Geração, essencialmente derivada da 4ª geração. 
 
 A 5ª geração diferentemente das gerações anteriores, especialmente da 1ª 

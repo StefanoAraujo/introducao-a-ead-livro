@@ -3,15 +3,27 @@
   rudder-doc-docinfo.xml
   DocBook document information file for rudder-doc.txt.
 -->
-  <edition>v1.1</edition>
+  <edition>v2.0</edition>
 
   <revhistory>
+
+
+    <revision>
+      <revnumber>v2.0</revnumber>
+      <date>Março 2013</date>
+      <authorinitials>Clauirton</authorinitials>
+      <revremark>
+        Correção de links quebrados, conteúdos disponíveis em sala,
+        telas do novo Moodle 2.4.
+      </revremark>
+    </revision>
+
     <revision>
       <revnumber>v1.0</revnumber>
-      <date>2013</date>
-      <authorinitials>Van der Linden, Marta Maria Gomes</authorinitials>
+      <date>2010</date>
+      <authorinitials>Marta Maria Gomes Van der Lindem</authorinitials>
       <revremark>
-        Relançamento do livro de 2010.
+        Primeira versão do livro.
       </revremark>
     </revision>
   </revhistory>
@@ -20,7 +32,7 @@
   <authorgroup>
     <author>
       <firstname>Marta</firstname>
-      <surname>Van der Linden</surname>
+      <surname>Van der Lindem</surname>
       <affiliation>
         <jobtitle>Professora</jobtitle>
         <orgname>Universidade Federal da Paraíba</orgname>

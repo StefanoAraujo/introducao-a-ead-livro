@@ -45,11 +45,16 @@
     </author>
 <!-- 
     <editor>
+    </editor>
+-->
+
+  <othercredit>
       <firstname>Eduardo</firstname>
       <surname>Medeiros</surname>
       <othername>Santana</othername>
-    </editor>
--->
+    <contrib>Editor</contrib>
+  </othercredit>
+
 
   </authorgroup>
   

@@ -1,4 +1,16 @@
-/livro/AAPDIR
-/livro/*.png
-/livro/livro.pdf
-pdf
+livro/AAPDIR
+
+# Arquivos gerados pelo asciidoc
+livro/*.chunked
+livro/*.pdf
+livro/*.png
+livro/*.zip
+livro/livro.xml
+livro/slides.html
+livro/livro.tex
+
+# Arquivos gerados pelo latex
+*.pdf
+livro.aux
+livro.log
+

@@ -6,8 +6,6 @@
   <edition>v2.0</edition>
 
   <revhistory>
-
-
     <revision>
       <revnumber>v2.0</revnumber>
       <date>Março 2013</date>
@@ -23,7 +21,7 @@
       <date>2010</date>
       <authorinitials>Marta Maria Gomes Van der Lindem</authorinitials>
       <revremark>
-        Primeira versão do livro.
+        Reponsável pela primeira versão do livro.
       </revremark>
     </revision>
   </revhistory>
@@ -46,14 +44,18 @@
 <!-- 
     <editor>
     </editor>
--->
 
   <othercredit>
       <firstname>Eduardo</firstname>
       <surname>Medeiros</surname>
       <othername>Santana</othername>
+
     <contrib>Editor</contrib>
   </othercredit>
+
+-->
+
+
 
 
   </authorgroup>

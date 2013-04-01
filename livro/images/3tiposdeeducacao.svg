@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="tres-tipos-de-educacao-on-line.svg"
+   inkscape:export-filename="/home/santana/asciibook/introducao-a-ead-livro/livro/images/3tiposdeeducacao.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="443.03819"
+     inkscape:cy="585.58864"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1301"
+     inkscape:window-height="672"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       transform="matrix(0.9461422,0,0,1.1580576,-165.74885,108.89332)"
+       style="opacity:0.69999999999999996;fill:#00ffff;stroke:#000000;stroke-opacity:1;stroke-width:2.86601176"
+       d="m 680,443.79074 a 265.71429,137.14285 0 1 1 -531.42859,0 265.71429,137.14285 0 1 1 531.42859,0 z"
+       sodipodi:ry="137.14285"
+       sodipodi:rx="265.71429"
+       sodipodi:cy="443.79074"
+       sodipodi:cx="414.28571"
+       id="path3799"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       id="path3025"
+       sodipodi:cx="414.28571"
+       sodipodi:cy="443.79074"
+       sodipodi:rx="265.71429"
+       sodipodi:ry="137.14285"
+       d="m 680,443.79074 a 265.71429,137.14285 0 1 1 -531.42859,0 265.71429,137.14285 0 1 1 531.42859,0 z"
+       style="opacity:0.69999999999999996;fill:#ff9955;stroke:#000000;stroke-opacity:1;stroke-width:2.86601176"
+       transform="matrix(0.9461422,0,0,1.1580576,248.53686,118.89332)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2997"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion2999"><rect
+           id="rect3001"
+           width="65.714287"
+           height="151.42857"
+           x="325.71429"
+           y="306.64789" /></flowRegion><flowPara
+         id="flowPara3003"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="41.428581"
+       y="625.21936"
+       id="text3005"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="41.428581"
+         y="625.21936"
+         id="tspan3009">Educação a</tspan><tspan
+         sodipodi:role="line"
+         x="41.428581"
+         y="675.21936"
+         id="tspan3013">Distância On-line</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="671.22595"
+       y="615.2923"
+       id="text3015"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3017"
+         x="671.22595"
+         y="615.2923">Treinamento On-line</tspan><tspan
+         sodipodi:role="line"
+         x="677.59314"
+         y="665.2923"
+         id="tspan3019">Baseado em </tspan><tspan
+         sodipodi:role="line"
+         x="671.22595"
+         y="715.2923"
+         id="tspan3797">Computador</tspan></text>
+    <path
+       sodipodi:type="arc"
+       id="path3021"
+       sodipodi:cx="414.28571"
+       sodipodi:cy="443.79074"
+       sodipodi:rx="265.71429"
+       sodipodi:ry="137.14285"
+       d="m 680,443.79074 a 265.71429,137.14285 0 1 1 -531.42859,0 265.71429,137.14285 0 1 1 531.42859,0 z"
+       style="opacity:0.7;fill:#ffaaaa;stroke:#000000;stroke-width:3;stroke-opacity:1"
+       transform="translate(7.1428527,-3.4285721)" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="422.98129"
+       y="383.10995"
+       id="text2989"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2991"
+         x="422.98129"
+         y="383.10995">Aprendizagem</tspan><tspan
+         sodipodi:role="line"
+         x="422.98129"
+         y="433.10995"
+         id="tspan2993">Colaborativa</tspan><tspan
+         sodipodi:role="line"
+         x="422.98129"
+         y="483.10995"
+         id="tspan2995">On-line</tspan></text>
+  </g>
+</svg>

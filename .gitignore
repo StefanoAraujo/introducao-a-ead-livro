@@ -8,6 +8,7 @@ livro/*.zip
 livro/livro.xml
 livro/slides.html
 livro/livro.tex
+livro/capitulos/*.txt
 
 # Arquivos gerados pelo latex
 *.pdf

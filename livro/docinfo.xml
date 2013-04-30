@@ -26,7 +26,6 @@
     </revision>
   </revhistory>
 
-
   <authorgroup>
     <author>
       <firstname>Marta</firstname>
@@ -41,13 +40,6 @@
         </para>
       </authorblurb>
     </author>
-<!-- 
-    <editor>
-    </editor>
-
-
-
--->
   </authorgroup>
 
   <othercredit>
@@ -56,7 +48,22 @@
       <othername>Santana</othername>
     <contrib>Editor</contrib>
   </othercredit>
-  
+
+  <othercredit>
+      <firstname>Clauirton</firstname>
+      <othername>Albuquerque</othername>
+      <surname>Siebra</surname>
+    <contrib>Revisor</contrib>
+  </othercredit>
+
+  <othercredit>
+      <firstname>Camyle</firstname>
+      <othername>Araújo</othername>
+      <surname>Silva</surname>
+    <contrib>Revisora Ortográfica</contrib>
+  </othercredit>
+
+
   <copyright>
     <year>2013</year>
     <holder>UAB</holder>

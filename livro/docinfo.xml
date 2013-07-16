@@ -9,11 +9,11 @@
 
 <publisher>
   <publishername>Editora da UFPB</publishername>
-<address>
-<pob>Caixa Postal 5081 – Cidade Universitária</pob>
-<city>João Pessoa</city>, <state>PB</state> <postcode>58.051–970</postcode>
-<country>Brazil</country>
-</address>
+  <address>
+  <pob>Caixa Postal 5081 – Cidade Universitária</pob>
+  <city>João Pessoa</city>, <state>PB</state> <postcode>58.051–970</postcode>
+  <country>Brazil</country>
+  </address>
 </publisher>
 
   <revhistory>

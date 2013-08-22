@@ -6,9 +6,19 @@
   <biblioid class="isbn">978-85-237-0697-5</biblioid>
 
 -->
-  <edition>v1.0.3</edition>
+  <edition>v1.0.4</edition>
 
   <revhistory>
+
+    <revision>
+      <revnumber>v1.0.4</revnumber>
+      <date>22/Agosto/2013</date>
+      <authorinitials>Eduardo</authorinitials>
+      <revremark>
+	Esquema de cores CMYK para impressão.
+      </revremark>
+    </revision>
+
     <revision>
       <revnumber>v1.0.3</revnumber>
       <date>22/Agosto/2013</date>

@@ -2,10 +2,10 @@
 <!--
   rudder-doc-docinfo.xml
   DocBook document information file for rudder-doc.txt.
--->
-  <edition>v1.0.2</edition>
   <pubdate>2013</pubdate>
   <biblioid class="isbn">978-85-237-0697-5</biblioid>
+-->
+  <edition>v1.0.2</edition>
 
   <revhistory>
     <revision>

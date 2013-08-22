@@ -6,15 +6,15 @@
   <biblioid class="isbn">978-85-237-0697-5</biblioid>
 
 -->
-  <edition>v1.0.2</edition>
+  <edition>v1.0.3</edition>
 
   <revhistory>
     <revision>
-      <revnumber>v1.0.2</revnumber>
+      <revnumber>v1.0.3</revnumber>
       <date>22/Agosto/2013</date>
       <authorinitials>Eduardo</authorinitials>
       <revremark>
-	Remoção do histórico da revisão e colaboradores.
+	Remoção do histórico da revisão e colaboradores. Atualização da equipe.
       </revremark>
     </revision>
 
